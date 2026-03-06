@@ -8,10 +8,10 @@
 
 | 指标 | 数据 |
 |------|------|
-| 当前总字数 | 75,000+ 字 |
+| 当前总字数 | 101,000+ 字 |
 | 预计完成后 | 120,000+ 字 |
-| 文档数 | 21+ |
-| 覆盖时间 | 2012-2026（14年） |
+| 文档数 | 27+ |
+| 覆盖时间 | 2012-2026（14年）
 | 人物档案 | 30位KOL + 5位深度档案 |
 | 关键事件 | 60+ |
 
@@ -23,21 +23,34 @@
 rise-of-the-silicon/
 ├── 00-meta/                    # 项目元数据
 │   ├── project-overview.md     # 项目总览
-│   ├── writing-standards.md    # 写作规范与来源标注标准 ⭐ 新增
-│   ├── supplement-plan.md      # 素材补充执行计划 ⭐ 新增
+│   ├── writing-standards.md    # 写作规范与来源标注标准
+│   ├── supplement-plan.md      # 素材补充执行计划
 │   ├── character-relationship-map.md  # 人物关系图谱
 │   └── unified-timeline.md     # 统一时间线
 ├── 01-prehistoric/             # 史前时代（2012-2022）
-│   └── academic-factions.md    # 学术派系之争
+│   ├── academic-factions.md    # 学术派系之争
+│   └── transformer-evolution.md  # Transformer架构演进 ⭐ 新增
 ├── 02-singularity/             # 奇点临近（2022-2030）
 │   ├── talent-migration/       # 人才迁徙
 │   ├── east-west/              # 东西对决
+│   │   ├── chip-war.md
+│   │   ├── chip-war-comprehensive.md
+│   │   ├── model-showdown.md
+│   │   ├── open-source-movement.md
+│   │   ├── open-vs-closed.md
+│   │   └── europe-ai-rising.md   # Mistral AI与欧洲AI ⭐ 新增
 │   ├── tech-routes/            # 技术路线
 │   ├── organizations/          # 组织架构
+│   │   ├── structural-changes.md
+│   │   ├── org-structure-comparison.md
+│   │   ├── baidu-internal-struggle.md  # 百度内部 ⭐ 新增
+│   │   ├── huawei-ascend-inside.md     # 华为昇腾 ⭐ 新增
+│   │   ├── tencent-hunyuan-story.md    # 腾讯混元 ⭐ 新增
+│   │   └── zhipu-ipo-story.md          # 智谱上市 ⭐ 新增
 │   └── key-events/             # 关键事件
 ├── 03-agi-era/                 # AGI时代（2030+）
 ├── 04-characters/              # 人物素材库
-│   ├── kol-archives.md         # 30位关键人物档案 ✅ 已统一为真名
+│   ├── kol-archives.md         # 30位关键人物档案
 │   └── deep-profiles-complete.md  # 5位深度档案
 └── README.md                   # 本文件
 ```
@@ -66,20 +79,22 @@ rise-of-the-silicon/
 | 真名统一 | ✅ | kol-archives.md 已统一使用真实人名 |
 | 写作规范 | ✅ | 建立来源标注标准和格式模板 |
 | 补充计划 | ✅ | 制定4阶段45,000字补充计划 |
+| 百度内部视角 | ✅ | 王海峰边缘化、文心战略摇摆 |
+| 华为昇腾内部 | ✅ | 达芬奇计划、昇腾芯片演进 |
+| 腾讯混元觉醒 | ✅ | 人才挖角、姚顺雨加入、架构重组 |
+| 智谱AI上市 | ✅ | 清华KEG起源、港股上市、股价暴涨 |
+| 欧洲AI突围 | ✅ | Mistral AI、马克龙第三条道路 |
+| Transformer演进 | ✅ | Attention论文、三技术路线 |
 
 ### 进行中 ⏳
 
 | 任务 | 优先级 | 预计字数 |
 |------|--------|---------|
-| 百度内部视角 | P0 | 4,000字 |
-| 腾讯混元团队 | P0 | 4,000字 |
-| 智谱AI上市 | P0 | 3,000字 |
-| 华为昇腾内部 | P0 | 4,000字 |
-| 欧洲AI突围 | P1 | 3,000字 |
 | 日韩AI战略 | P1 | 3,000字 |
 | 中东AI投资 | P1 | 3,000字 |
 | 印度AI生态 | P1 | 3,000字 |
-| 技术深度系列 | P2 | 10,000字 |
+| MoE/后训练技术 | P2 | 5,000字 |
+| 推理优化技术 | P2 | 5,000字 |
 | 人物心理档案 | P3 | 8,000字 |
 
 详见：`00-meta/supplement-plan.md`
@@ -104,5 +119,5 @@ https://github.com/ynych/rise-of-the-silicon
 ---
 
 *项目发起：2026年3月6日*
-*当前版本：v0.5*
-*状态：P0整合完成，进入P1标准化阶段*
+*当前版本：v0.7*
+*状态：P0已完成，P1国际视角进行中*

@@ -82,6 +82,9 @@ silicon-chronicle/
 | 02-singularity/organizations | baidu-internal-struggle.md | 4,000+ | 王海峰边缘化、文心品牌迷途、李彦宏亲自下场 |
 | 02-singularity/organizations | huawei-ascend-inside.md | 4,000+ | 达芬奇计划、昇腾芯片演进、徐直军战略、海思突围 |
 | 02-singularity/organizations | tencent-hunyuan-story.md | 4,500+ | 腾讯AI觉醒、姚顺雨加入、冯佳时挖角、架构重组 |
+| 02-singularity/organizations | zhipu-ipo-story.md | 4,000+ | 清华KEG起源、港股上市、股价暴涨524% |
+| 02-singularity/east-west | europe-ai-rising.md | 4,500+ | Mistral AI、马克龙第三条道路、1090亿投资 |
+| 01-prehistoric | transformer-evolution.md | 6,000+ | Attention论文、三技术路线、MoE/Mamba演进 |
 
 ### 完成部分（历史）
 
@@ -109,7 +112,7 @@ silicon-chronicle/
 | 04-characters | deep-profiles-complete.md | 4,700+ | Sam/Ilya/Dario/梁文锋/黄仁勋深度档案 |
 | 00-meta | china-ai-teams-analysis.md | 10,300+ | 国内AI团队核心人物实力分析 |
 
-**总计：约87,000字，24个文档**
+**总计：约101,000字，27个文档**
 
 ---
 
@@ -194,8 +197,8 @@ OpenAI案例表明，一旦接受巨额投资和IPO压力，安全研究必然�
 
 ## 项目统计
 
-- **总字数**：87,000+ 字
-- **文档数**：24 个
+- **总字数**：101,000+ 字
+- **文档数**：27 个
 - **覆盖时间**：2012-2026（14年）
 - **人物档案**：30 位+ 5位深度档案
 - **关键事件**：60+ 个
@@ -204,5 +207,5 @@ OpenAI案例表明，一旦接受巨额投资和IPO压力，安全研究必然�
 ---
 
 *项目发起：2026年3月6日*
-*当前版本：v0.6*
-*状态：P0核心缺失补充中，已完成3/4*
+*当前版本：v0.7*
+*状态：P0核心缺失已完成，P1国际视角进行中*
