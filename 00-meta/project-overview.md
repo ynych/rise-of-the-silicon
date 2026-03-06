@@ -44,7 +44,8 @@ silicon-chronicle/
 │   ├── character-relationship-map.md  # 人物关系图谱
 │   └── unified-timeline.md     # 统一时间线
 ├── 01-prehistoric/             # 史前时代（2012-2022）
-│   └── academic-factions.md    # 学术派系之争
+│   ├── academic-factions.md    # 学术派系之争
+│   └── transformer-evolution.md  # Transformer架构演进 ⭐
 ├── 02-singularity/             # 奇点临近（2022-2030）
 │   ├── talent-migration/       # 人才迁徙
 │   │   ├── china-big-tech-poaching.md
@@ -55,14 +56,22 @@ silicon-chronicle/
 │   │   ├── chip-war-comprehensive.md
 │   │   ├── model-showdown.md
 │   │   ├── open-source-movement.md
-│   │   └── open-vs-closed.md
+│   │   ├── open-vs-closed.md
+│   │   ├── europe-ai-rising.md      # Mistral AI与欧洲AI ⭐
+│   │   ├── asia-ai-players.md       # 日韩AI战略 ⭐
+│   │   ├── middle-east-ai-investment.md  # 中东AI投资 ⭐
+│   │   └── india-ai-ecosystem.md    # 印度AI生态 ⭐
 │   ├── tech-routes/            # 技术路线
 │   │   └── scaling-law-debate.md
 │   ├── key-events/
 │   │   └── timeline.md
 │   └── organizations/          # 组织架构
 │       ├── structural-changes.md
-│       └── org-structure-comparison.md
+│       ├── org-structure-comparison.md
+│       ├── baidu-internal-struggle.md  # 百度内部 ⭐
+│       ├── huawei-ascend-inside.md     # 华为昇腾 ⭐
+│       ├── tencent-hunyuan-story.md    # 腾讯混元 ⭐
+│       └── zhipu-ipo-story.md          # 智谱上市 ⭐
 ├── 03-agi-era/                 # AGI时代（2030+）
 │   ├── predictions.md
 │   └── safety-debates-detailed.md
@@ -111,8 +120,17 @@ silicon-chronicle/
 | 04-characters | kol-archives.md | 12,100+ | 30位KOL档案 |
 | 04-characters | deep-profiles-complete.md | 4,700+ | Sam/Ilya/Dario/梁文锋/黄仁勋深度档案 |
 | 00-meta | china-ai-teams-analysis.md | 10,300+ | 国内AI团队核心人物实力分析 |
+| 02-singularity/organizations | baidu-internal-struggle.md | 4,000+ | 王海峰边缘化、文心品牌迷途、李彦宏亲自下场 |
+| 02-singularity/organizations | huawei-ascend-inside.md | 4,000+ | 达芬奇计划、昇腾芯片演进、徐直军战略、海思突围 |
+| 02-singularity/organizations | tencent-hunyuan-story.md | 4,500+ | 腾讯AI觉醒、姚顺雨加入、冯佳时挖角、架构重组 |
+| 02-singularity/organizations | zhipu-ipo-story.md | 4,000+ | 清华KEG起源、港股上市、股价暴涨524% |
+| 02-singularity/east-west | europe-ai-rising.md | 4,500+ | Mistral AI、马克龙第三条道路、1090亿投资 |
+| 02-singularity/east-west | asia-ai-players.md | 2,500+ | 日韩AI困境、索尼保守主义、Naver本土突围 |
+| 02-singularity/east-west | middle-east-ai-investment.md | 2,800+ | 阿联酋G42、沙特NEOM、石油美元换算力 |
+| 02-singularity/east-west | india-ai-ecosystem.md | 3,700+ | Krutrim独角兽、Sarvam争议、小模型战略 |
+| 01-prehistoric | transformer-evolution.md | 6,000+ | Attention论文、三技术路线、MoE/Mamba演进 |
 
-**总计：约101,000字，27个文档**
+**总计：约110,000字，30个文档**
 
 ---
 
@@ -197,8 +215,8 @@ OpenAI案例表明，一旦接受巨额投资和IPO压力，安全研究必然�
 
 ## 项目统计
 
-- **总字数**：101,000+ 字
-- **文档数**：27 个
+- **总字数**：110,000+ 字
+- **文档数**：30 个
 - **覆盖时间**：2012-2026（14年）
 - **人物档案**：30 位+ 5位深度档案
 - **关键事件**：60+ 个
@@ -207,5 +225,5 @@ OpenAI案例表明，一旦接受巨额投资和IPO压力，安全研究必然�
 ---
 
 *项目发起：2026年3月6日*
-*当前版本：v0.7*
-*状态：P0核心缺失已完成，P1国际视角进行中*
+*当前版本：v0.8*
+*状态：P1国际视角已完成，P2技术深度进行中*
