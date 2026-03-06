@@ -2,7 +2,7 @@
 
 ## 项目定位
 
-一部关于人工智能时代的**非虚构写作项目**，通过整理真实的人物、事件、技术突破和组织变迁，构建一个完整的AI宇宙世界观，为后续小说创作提供扎实的素材基础。
+一部关于人工智能时代的**非虚构写作项目**，通过整理真实的人物、事件、技术突破和组织变迁，构建一个完整的AI产业全景。
 
 ---
 
@@ -26,8 +26,8 @@ AGI爆发  (2030-2040)    → 技术奇点，社会重构，人性考验
 
 ### 3. 人物驱动
 
-以**真实KOL**为原型，构建30位核心人物的恩怨情仇：
-- 不是传记，而是**群像戏**
+以**真实KOL**为核心，记录30位关键人物的恩怨情仇：
+- 不是传记，而是**群像记录**
 - 关注**选择时刻**：他们为什么离开、为什么留下、为什么背叛
 - **失败者的尊严**：被组织抛弃的技术理想主义者
 
@@ -40,65 +40,68 @@ silicon-chronicle/
 ├── 00-meta/                    # 项目元数据
 │   ├── project-overview.md     # 本文档
 │   ├── design-principles.md    # 设计原则
-│   └── progress-log.md         # 进展日志
+│   ├── progress-log.md         # 进展日志
+│   ├── character-relationship-map.md  # 人物关系图谱
+│   └── unified-timeline.md     # 统一时间线
 ├── 01-prehistoric/             # 史前时代（2012-2022）
-│   ├── academic-factions.md    # 学术派系之争
-│   ├── key-papers.md           # 关键论文与争议
-│   ├── early-rivalries.md      # 早期人物恩怨
-│   └── timeline.md             # 史前时间线
+│   └── academic-factions.md    # 学术派系之争
 ├── 02-singularity/             # 奇点临近（2022-2030）
 │   ├── talent-migration/       # 人才迁徙
-│   │   ├── china-big-tech.md   # 中国大厂
-│   │   ├── openai-mafia.md     # OpenAI系
-│   │   └── seed-posttrain.md   # Seed团队Post-training
+│   │   ├── china-big-tech-poaching.md
+│   │   ├── openai-mafia.md
+│   │   └── byte-seed-core-members.md
 │   ├── east-west/              # 东西对决
-│   │   ├── model-showdown.md   # 模型对比
-│   │   ├── chip-war.md         # 芯片战争
-│   │   └── open-source.md      # 开源之争
-│   ├── key-events/             # 标志性事件
-│   │   └── timeline.md         # 2012-2026时间线
-│   └── organizations/          # 组织架构变迁
+│   │   ├── chip-war.md
+│   │   ├── chip-war-comprehensive.md
+│   │   ├── model-showdown.md
+│   │   ├── open-source-movement.md
+│   │   └── open-vs-closed.md
+│   ├── tech-routes/            # 技术路线
+│   │   └── scaling-law-debate.md
+│   ├── key-events/
+│   │   └── timeline.md
+│   └── organizations/          # 组织架构
+│       ├── structural-changes.md
+│       └── org-structure-comparison.md
 ├── 03-agi-era/                 # AGI时代（2030+）
-│   ├── predictions.md          # AGI预测时间线
-│   ├── safety-debates.md       # 安全与对齐争论
-│   └── societal-impact.md      # 社会影响预测
+│   ├── predictions.md
+│   └── safety-debates-detailed.md
 └── 04-characters/              # 人物素材库
-    └── kol-archives.md         # 30位KOL档案
+    ├── kol-archives.md
+    └── deep-profiles-complete.md
 ```
 
 ---
 
 ## 已收集素材（截至2026-03-06）
 
-### 完成部分 ✅
+### 完成部分
 
 | 章节 | 文件 | 字数 | 核心内容 |
 |------|------|------|---------|
-| 00元数据 | project-overview.md | 4,000+ | 项目总览与设计原则 |
-| 01史前 | academic-factions.md | 4,300+ | 深度学习三巨头、Transformer八人、OpenAI创立与分裂 |
-| 02奇点 | china-big-tech.md | 3,800+ | 阿里Qwen、字节Seed、百度文心人才流动 |
-| 02奇点 | byte-seed-core.md | 4,500+ | Seed团队完整架构、Post-training方向（禹棋赢等） |
-| 02奇点 | openai-mafia.md | 4,900+ | OpenAI 11联创8人离开、Anthropic崛起 |
-| 02奇点 | model-showdown.md | 3,800+ | 中美模型性能对比、DeepSeek时刻、成本之战 |
-| 02奇点 | chip-war.md | 4,300+ | H100禁令三部曲、华为昇腾崛起、黄仁勋困境 |
-| 02奇点 | open-source-movement.md | 4,700+ | 开源运动历史、自由软件到AI民主化 |
-| 02奇点 | timeline.md | 4,000+ | 2012-2026关键事件时间线 |
-| 03AGI | predictions.md | 3,000+ | AGI时间表、安全争论、中国立场 |
-| 04人物 | kol-archives.md | 6,900+ | 30位虚拟KOL档案（真实原型映射） |
+| 00-meta | project-overview.md | 4,100+ | 项目总览与设计原则 |
+| 00-meta | character-relationship-map.md | 3,500+ | 核心人物关系网络 |
+| 00-meta | unified-timeline.md | 3,500+ | 2012-2026统一时间线 |
+| 01-prehistoric | academic-factions.md | 7,600+ | 深度学习三巨头、Transformer八人 |
+| 02-singularity/talent-migration | china-big-tech-poaching.md | 7,800+ | 阿里Qwen、字节Seed、百度文心 |
+| 02-singularity/talent-migration | openai-mafia.md | 7,800+ | OpenAI 11联创8人离开、Anthropic崛起 |
+| 02-singularity/talent-migration | byte-seed-core-members.md | 8,400+ | Seed团队架构、Post-training方向 |
+| 02-singularity/east-west | chip-war.md | 8,100+ | H100禁令、华为昇腾 |
+| 02-singularity/east-west | chip-war-comprehensive.md | 7,500+ | 禁令时间线、黄仁勋困境、国产替代 |
+| 02-singularity/east-west | model-showdown.md | 6,700+ | 中美模型性能对比、DeepSeek时刻 |
+| 02-singularity/east-west | open-source-movement.md | 9,100+ | 开源运动历史、自由软件到AI民主化 |
+| 02-singularity/east-west | open-vs-closed.md | 5,700+ | 开源vs闭源路线、中美生态分化 |
+| 02-singularity/tech-routes | scaling-law-debate.md | 4,100+ | Scaling Law四维扩展 |
+| 02-singularity/organizations | structural-changes.md | 4,000+ | 阿里/字节/百度组织调整 |
+| 02-singularity/organizations | org-structure-comparison.md | 4,300+ | OpenAI/Anthropic/DeepSeek/字节/阿里对比 |
+| 02-singularity/key-events | timeline.md | 6,800+ | 2012-2026关键事件 |
+| 03-agi-era | predictions.md | 5,500+ | AGI时间表、安全争论 |
+| 03-agi-era | safety-debates-detailed.md | 5,800+ | 速度派vs安全派 |
+| 04-characters | kol-archives.md | 12,100+ | 30位KOL档案 |
+| 04-characters | deep-profiles-complete.md | 4,700+ | Sam/Ilya/Dario/梁文锋/黄仁勋深度档案 |
+| 00-meta | china-ai-teams-analysis.md | 10,300+ | 国内AI团队核心人物实力分析 |
 
-**总计：约44,200字**
-
-### 待收集部分 ⏳
-
-| 优先级 | 内容 | 预计字数 |
-|--------|------|---------|
-| P1 | 组织架构变迁详解 | 3,000+ |
-| P1 | AGI社会冲击预测扩展 | 2,000+ |
-| P2 | 更多人物深度档案 | 3,000+ |
-
-**预计总计：8,000+字**
-
-**素材收集完成度：85%**
+**总计：约75,000字，21个文档**
 
 ---
 
@@ -123,29 +126,6 @@ silicon-chronicle/
 - 关注**细节**：深夜的推文、会议室的沉默、代码提交记录
 - 关注**瞬间**：决定离职的那一刻、被架空的那一刻
 - 关注**遗憾**：理想主义者的妥协与坚持
-
----
-
-## 后续计划
-
-### 第一阶段：素材收集（✅ 基本完成）
-- [x] 人才迁徙（中美）
-- [x] 模型对决
-- [x] 芯片战争
-- [x] KOL档案
-- [x] 关键事件时间线
-- [x] 开源运动历史
-
-### 第二阶段：整合与重构（下一步）
-- [ ] 时间线对齐与校对
-- [ ] 人物关系图谱可视化
-- [ ] 虚拟KOL与真实原型映射表
-- [ ] 关键引用来源标注
-
-### 第三阶段：小说创作
-- [ ] 《棋局》续篇（基于现有素材扩展）
-- [ ] 多线叙事架构设计
-- [ ] 虚拟宇宙完整设定
 
 ---
 
@@ -183,6 +163,12 @@ silicon-chronicle/
 - DeepSeek证明算法可弥补硬件差距
 - 开源成为中国突破封锁的策略
 
+### 6. 商业化必然牺牲安全
+OpenAI案例表明，一旦接受巨额投资和IPO压力，安全研究必然被边缘化：
+- 使命声明删除"safely"一词
+- Superalignment团队从20%算力到解散
+- Mission Alignment团队18个月后消失
+
 ---
 
 ## 命名说明
@@ -200,15 +186,15 @@ silicon-chronicle/
 
 ## 项目统计
 
-- **总字数**：44,200+ 字
-- **文档数**：11 个
+- **总字数**：75,000+ 字
+- **文档数**：21 个
 - **覆盖时间**：2012-2026（14年）
-- **人物档案**：30 位
-- **关键事件**：50+ 个
+- **人物档案**：30 位+ 5位深度档案
+- **关键事件**：60+ 个
+- **GitHub**：https://github.com/ynych/rise-of-the-silicon
 
 ---
 
 *项目发起：2026年3月6日*
-*当前版本：v0.2*
-*素材收集阶段：85% 完成*
-*下一步：GitHub推送 + 整合重构*
+*当前版本：v0.4*
+*状态：P0整合完成，进入P1标准化阶段*
