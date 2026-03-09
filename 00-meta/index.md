@@ -28,6 +28,9 @@
 | [unified-timeline.md](unified-timeline.md) | 统一时间线 | ⭐⭐ |
 | [character-relationship-map.md](character-relationship-map.md) | 人物关系图谱 | ⭐⭐⭐ |
 | [writing-standards.md](writing-standards.md) | 写作规范与来源标注 | ⭐⭐ |
+| [index.md](index.md) | 本导航页（统一索引） | ⭐⭐⭐ |
+| [content-deduplication-guide.md](content-deduplication-guide.md) | 内容去重指南 | ⭐⭐ |
+| [project-feedback.md](project-feedback.md) | 项目反馈记录 | ⭐ |
 
 ### 史前时代：2012-2022 (`01-prehistoric/`)
 
