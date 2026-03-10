@@ -23,11 +23,11 @@
 
 | 文档 | 内容 | 重要性 |
 |------|------|:------:|
-| [project-overview.md](project-overview.md) | 项目总览与使用指南 | ⭐⭐⭐ |
-| [worldview-framework.md](worldview-framework.md) | 五维矛盾矩阵 | ⭐⭐⭐ |
-| [timeline-v2-iteration2.md](timeline-v2-iteration2.md) | AI转折点全景图（22+8节点） | ⭐⭐⭐ |
+| [project-overview.md](../project-overview.md) | 项目总览与使用指南 | ⭐⭐⭐ |
+| [worldview-framework.md](./worldview-framework.md) | 五维矛盾矩阵 | ⭐⭐⭐ |
+| [timeline-v2-iteration2.md](./timeline-v2-iteration2.md) | AI转折点全景图（22+8节点） | ⭐⭐⭐ |
 | [unified-timeline.md](unified-timeline.md) | 统一时间线 | ⭐⭐ |
-| [character-relationship-map.md](character-relationship-map.md) | 人物关系图谱 | ⭐⭐⭐ |
+| [character-relationship-map.md](./character-relationship-map.md) | 人物关系图谱 | ⭐⭐⭐ |
 | [writing-standards.md](writing-standards.md) | 写作规范与来源标注 | ⭐⭐ |
 | [index.md](index.md) | 本导航页（统一索引） | ⭐⭐⭐ |
 | [content-deduplication-guide.md](content-deduplication-guide.md) | 内容去重指南 | ⭐⭐ |
@@ -37,8 +37,8 @@
 
 | 文档 | 内容 | 重要性 |
 |------|------|:------:|
-| [transformer-evolution.md](transformer-evolution.md) | Transformer架构演进 | ⭐⭐⭐ |
-| [academic-factions.md](academic-factions.md) | 学术派系之争 | ⭐⭐ |
+| [transformer-evolution.md](../01-prehistoric/transformer-evolution.md) | Transformer架构演进 | ⭐⭐⭐ |
+| [academic-factions.md](../01-prehistoric/academic-factions.md) | 学术派系之争 | ⭐⭐ |
 
 ### 奇点临近：2022-2030 (`02-singularity/`)
 
@@ -46,55 +46,55 @@
 
 | 文档 | 内容 | 状态 |
 |------|------|:----:|
-| [openai-internal-politics.md](organizations/openai-internal-politics.md) | OpenAI政变与权力斗争 | ✅ |
-| [baidu-internal-struggle.md](organizations/baidu-internal-struggle.md) | 百度文心一言内部争议 | ✅ |
-| [tencent-hunyuan-story.md](organizations/tencent-hunyuan-story.md) | 腾讯混元团队故事 | ✅ |
-| [alibaba-qwen-story.md](organizations/alibaba-qwen-story.md) | 阿里Qwen与林俊旸离职 | ✅ |
-| [bytedance-seed-story.md](organizations/bytedance-seed-story.md) | 字节Seed团队与豆包 | ✅ |
-| [moonshot-kimi-story.md](organizations/moonshot-kimi-story.md) | 月之暗面与Kimi | ✅ |
-| [minimax-story.md](organizations/minimax-story.md) | MiniMax与MaxClaw | ✅ |
-| [zhipu-ipo-story.md](organizations/zhipu-ipo-story.md) | 智谱AI上市历程 | ✅ |
-| [huawei-ascend-inside.md](organizations/huawei-ascend-inside.md) | 华为昇腾团队内部 | ✅ |
-| [google-deepmind-story.md](organizations/google-deepmind-story.md) | Google DeepMind故事 | ✅ |
-| [org-structure-comparison.md](organizations/org-structure-comparison.md) | 大厂组织架构对比 | ✅ |
+| [openai-internal-politics.md](../02-singularity/organizations/openai-internal-politics.md) | OpenAI政变与权力斗争 | ✅ |
+| [baidu-internal-struggle.md](../02-singularity/organizations/baidu-internal-struggle.md) | 百度文心一言内部争议 | ✅ |
+| [tencent-hunyuan-story.md](../02-singularity/organizations/tencent-hunyuan-story.md) | 腾讯混元团队故事 | ✅ |
+| [alibaba-qwen-story.md](../02-singularity/organizations/alibaba-qwen-story.md) | 阿里Qwen与林俊旸离职 | ✅ |
+| [bytedance-seed-story.md](../02-singularity/organizations/bytedance-seed-story.md) | 字节Seed团队与豆包 | ✅ |
+| [moonshot-kimi-story.md](../02-singularity/organizations/moonshot-kimi-story.md) | 月之暗面与Kimi | ✅ |
+| [minimax-story.md](../02-singularity/organizations/minimax-story.md) | MiniMax与MaxClaw | ✅ |
+| [zhipu-ipo-story.md](../02-singularity/organizations/zhipu-ipo-story.md) | 智谱AI上市历程 | ✅ |
+| [huawei-ascend-inside.md](../02-singularity/organizations/huawei-ascend-inside.md) | 华为昇腾团队内部 | ✅ |
+| [google-deepmind-story.md](../02-singularity/organizations/google-deepmind-story.md) | Google DeepMind故事 | ✅ |
+| [org-structure-comparison.md](../02-singularity/organizations/org-structure-comparison.md) | 大厂组织架构对比 | ✅ |
 
 #### 国际视角 (`east-west/`)
 
 | 文档 | 内容 | 状态 |
 |------|------|:----:|
-| [chip-war-comprehensive.md](east-west/chip-war-comprehensive.md) | 芯片战争全景 | ✅ |
-| [europe-ai-rising.md](east-west/europe-ai-rising.md) | 欧洲AI突围（Mistral等） | ✅ |
-| [asia-ai-players.md](east-west/asia-ai-players.md) | 日韩AI战略 | ✅ |
-| [middle-east-ai-investment.md](east-west/middle-east-ai-investment.md) | 中东AI投资热潮 | ✅ |
-| [india-ai-ecosystem.md](east-west/india-ai-ecosystem.md) | 印度AI生态 | ✅ |
+| [chip-war-comprehensive.md](../02-singularity/east-west/chip-war-comprehensive.md) | 芯片战争全景 | ✅ |
+| [europe-ai-rising.md](../02-singularity/east-west/europe-ai-rising.md) | 欧洲AI突围（Mistral等） | ✅ |
+| [asia-ai-players.md](../02-singularity/east-west/asia-ai-players.md) | 日韩AI战略 | ✅ |
+| [middle-east-ai-investment.md](../02-singularity/east-west/middle-east-ai-investment.md) | 中东AI投资热潮 | ✅ |
+| [india-ai-ecosystem.md](../02-singularity/east-west/india-ai-ecosystem.md) | 印度AI生态 | ✅ |
 
 #### 技术路线 (`tech-routes/`)
 
 | 文档 | 内容 | 状态 |
 |------|------|:----:|
-| [agi-technical-landscape.md](tech-routes/agi-technical-landscape.md) | AGI技术路线全景（12,500字） | ✅ 新增 |
+| [agi-technical-landscape.md](../02-singularity/tech-routes/agi-technical-landscape.md) | AGI技术路线全景（12,500字） | ✅ 新增 |
 | [transformer-evolution.md](tech-routes/transformer-evolution.md) | Transformer演进 | ✅ |
-| [scaling-law-debate.md](tech-routes/scaling-law-debate.md) | Scaling Law争论 | ✅ |
-| [post-training-methods.md](tech-routes/post-training-methods.md) | 后训练方法对比 | ✅ |
-| [deepseek-technical-deep-dive.md](tech-routes/deepseek-technical-deep-dive.md) | DeepSeek技术解析 | ✅ |
-| [inference-optimization.md](tech-routes/inference-optimization.md) | 推理优化技术 | ✅ |
+| [scaling-law-debate.md](../02-singularity/tech-routes/scaling-law-debate.md) | Scaling Law争论 | ✅ |
+| [post-training-methods.md](../02-singularity/tech-routes/post-training-methods.md) | 后训练方法对比 | ✅ |
+| [deepseek-technical-deep-dive.md](../02-singularity/tech-routes/deepseek-technical-deep-dive.md) | DeepSeek技术解析 | ✅ |
+| [inference-optimization.md](../02-singularity/tech-routes/inference-optimization.md) | 推理优化技术 | ✅ |
 
 #### 人才迁徙 (`talent-migration/`)
 
 | 文档 | 内容 | 状态 |
 |------|------|:----:|
-| [openai-mafia.md](talent-migration/openai-mafia.md) | OpenAI黑帮出走史 | ✅ |
-| [china-big-tech-poaching.md](talent-migration/china-big-tech-poaching.md) | 中国大厂互挖 | ✅ |
-| [byte-seed-core-members.md](talent-migration/byte-seed-core-members.md) | 字节Seed核心成员 | ✅ |
+| [openai-mafia.md](../02-singularity/talent-migration/openai-mafia.md) | OpenAI黑帮出走史 | ✅ |
+| [china-big-tech-poaching.md](../02-singularity/talent-migration/china-big-tech-poaching.md) | 中国大厂互挖 | ✅ |
+| [byte-seed-core-members.md](../02-singularity/talent-migration/byte-seed-core-members.md) | 字节Seed核心成员 | ✅ |
 
 ### AGI时代：2030+ (`03-agi-era/`)
 
 | 文档 | 内容 | 状态 |
 |------|------|:----:|
-| [predictions.md](predictions.md) | AGI预测与安全争论 | ✅ |
-| [agi-predictions-tracker.md](agi-predictions-tracker.md) | AGI预测追踪器 | 🔄 待完善 |
-| [safety-debates-detailed.md](safety-debates-detailed.md) | AI安全争论深度 | ✅ |
-| [future-scenarios.md](future-scenarios.md) | 未来情景推演 | ⏳ 规划中 |
+| [predictions.md](../03-agi-era/predictions.md) | AGI预测与安全争论 | ✅ |
+| [agi-predictions-tracker.md](../03-agi-era/agi-predictions-tracker.md) | AGI预测追踪器 | 🔄 待完善 |
+| [safety-debates-detailed.md](../03-agi-era/safety-debates-detailed.md) | AI安全争论深度 | ✅ |
+| [future-scenarios.md](../03-agi-era/future-scenarios.md) | 未来情景推演 | ⏳ 规划中 |
 
 ### 人物素材库 (`04-characters/`)
 
@@ -102,19 +102,19 @@
 
 | 文档 | 内容 | 重要性 |
 |------|------|:------:|
-| [kol-top100-detailed.md](kol-top100-detailed.md) | Top 100人物完整档案 | ⭐⭐⭐ |
-| [deep-profiles-complete.md](deep-profiles-complete.md) | 5位深度心理档案 | ⭐⭐⭐ |
-| [character-relationship-map.md](character-relationship-map.md) | 人物关系网络 | ⭐⭐⭐ |
+| [kol-top100-detailed.md](../04-characters/kol-top100-detailed.md) | Top 100人物完整档案 | ⭐⭐⭐ |
+| [deep-profiles-complete.md](../04-characters/deep-profiles-complete.md) | 5位深度心理档案 | ⭐⭐⭐ |
+| [character-relationship-map.md](./character-relationship-map.md) | 人物关系网络 | ⭐⭐⭐ |
 
 #### 深度人物档案
 
 | 人物 | 文档 | 状态 |
 |------|------|:----:|
-| Ilya Sutskever | [ilya-sutskever-profile.md](ilya-sutskever-profile.md) + [ilya-sutskever-psychology.md](ilya-sutskever-psychology.md) | ✅ |
-| Dario Amodei | [dario-amodei-profile.md](dario-amodei-profile.md) | ✅ |
-| 杨植麟 | [yang-zhilin-profile.md](yang-zhilin-profile.md) | ✅ |
-| 黄仁勋 | [jensen-huang-profile.md](jensen-huang-profile.md) | ✅ |
-| 梁文锋 | [liang-wenfeng-profile.md](liang-wenfeng-profile.md) | ✅ |
+| Ilya Sutskever | [ilya-sutskever-profile.md](../04-characters/ilya-sutskever-profile.md) + [ilya-sutskever-psychology.md](../04-characters/ilya-sutskever-psychology.md) | ✅ |
+| Dario Amodei | [dario-amodei-profile.md](../04-characters/dario-amodei-profile.md) | ✅ |
+| 杨植麟 | [yang-zhilin-profile.md](../04-characters/yang-zhilin-profile.md) | ✅ |
+| 黄仁勋 | [jensen-huang-profile.md](../04-characters/jensen-huang-profile.md) | ✅ |
+| 梁文锋 | [liang-wenfeng-profile.md](../04-characters/liang-wenfeng-profile.md) | ✅ |
 
 ---
 
@@ -219,16 +219,16 @@ wrong:     agi技术路线-20260309-迭代2.md
 
 | 你想了解... | 去这里 |
 |------------|--------|
-| AI发展的关键转折点 | [timeline-v2-iteration2.md](00-meta/timeline-v2-iteration2.md) |
-| 全球AI产业100位关键人物 | [kol-top100-detailed.md](04-characters/kol-top100-detailed.md) |
-| 中美AI博弈全景 | [east-west/](02-singularity/east-west/) |
-| 大厂内部视角 | [organizations/](02-singularity/organizations/) |
-| AGI技术路线之争 | [agi-technical-landscape.md](02-singularity/tech-routes/agi-technical-landscape.md) |
-| AI安全争论 | [safety-debates-detailed.md](03-agi-era/safety-debates-detailed.md) |
+| AI发展的关键转折点 | [timeline-v2-iteration2.md](./timeline-v2-iteration2.md) |
+| 全球AI产业100位关键人物 | [kol-top100-detailed.md](../04-characters/kol-top100-detailed.md) |
+| 中美AI博弈全景 | [east-west/](../02-singularity/east-west/) |
+| 大厂内部视角 | [organizations/](../02-singularity/organizations/) |
+| AGI技术路线之争 | [agi-technical-landscape.md](../02-singularity/tech-routes/agi-technical-landscape.md) |
+| AI安全争论 | [safety-debates-detailed.md](../03-agi-era/safety-debates-detailed.md) |
 
 ### 按人物查找
 
-使用 `04-characters/` 目录下的档案，或查看 [character-relationship-map.md](00-meta/character-relationship-map.md)
+使用 `04-characters/` 目录下的档案，或查看 [character-relationship-map.md](./character-relationship-map.md)
 
 ---
 
