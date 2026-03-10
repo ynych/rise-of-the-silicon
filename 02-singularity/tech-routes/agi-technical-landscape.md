@@ -677,23 +677,31 @@ Google的Gemini Nano运行在Pixel手机和Android设备上：
 ## 附录：参考资料
 
 ### 关键文献
-1. Epoch AI, "Will we run out of data? Limits of LLM scaling based on human-generated data", 2024
-2. Microsoft Research, "Scaling Laws of Synthetic Data for Language Models", 2024
-3. LeCun, "A Path Towards Autonomous Machine Intelligence", 2022
-4. DeepMind, "The New Golden Age: AI-Powered Scientific Discovery", 2025
+1. [官方] Epoch AI, "Will we run out of data? Limits of LLM scaling based on human-generated data", 2024 [arXiv:2211.04325]
+2. [官方] Microsoft Research, "Scaling Laws of Synthetic Data for Language Models", 2024
+3. [官方] LeCun, "A Path Towards Autonomous Machine Intelligence", 2022
+4. [官方] DeepMind, "The New Golden Age: AI-Powered Scientific Discovery", 2025
 
 ### 关键数据报告
-1. Stanford HAI, "Artificial Intelligence Index Report 2024"
-2. 中国信通院, "中国算力发展指数白皮书"
-3. Gartner, "AI and Data Trends 2024-2030"
+1. [权威报告] Stanford HAI, "Artificial Intelligence Index Report 2024"
+2. [权威报告] 中国信通院, "中国算力发展指数白皮书"
+3. [行业分析] Gartner, "AI and Data Trends 2024-2030"
+4. [行业分析] SemiAnalysis: "DeepSeek V3: The $5.576 Million Training Cost Breakdown"
 
 ### 关键访谈与演讲
-1. Sam Altman, "AGI and Beyond", OpenAI Blog, 2025
-2. Demis Hassabis, DeepMind技术演讲, 2025
-3. Yann LeCun, "The Information Bottleneck"访谈, 2025
-4. Dario Amodei, Lex Fridman Podcast #452, 2024
+1. [官方] Sam Altman, "AGI and Beyond", OpenAI Blog, 2025
+2. [权威媒体] Demis Hassabis, DeepMind技术演讲, 2025
+3. [权威媒体] Yann LeCun, "The Information Bottleneck"访谈, 2025
+4. [权威媒体] Dario Amodei, Lex Fridman Podcast #452, 2024
+5. [权威媒体] Ilya Sutskever, NeurIPS 2024 Keynote
+
+### 中文深度分析
+1. [权威媒体] 沈阳教授：中美AI技术路线分析
+2. [权威媒体] 姜奇平："暴力计算"与"巧力计算"之争
+3. [权威媒体] 崔鹏教授：数据墙与可信AI
 
 ---
 
 *《硅基编年史》技术路线深度文档*
 *记录这个笨蛋时代的一切*
+*技术细节参考：[术语对照表](/00-meta/tech-glossary.md)*

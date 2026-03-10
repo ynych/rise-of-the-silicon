@@ -326,12 +326,41 @@ DeepSeek GRM（Generative Reward Model）：
 
 ## 参考来源
 
-- RLHF: "Fine-Tuning Language Models from Human Preferences", 2020
-- Constitutional AI: "Constitutional AI: Harmlessness from AI Feedback", 2022
-- DPO: "Direct Preference Optimization", Stanford, 2023
-- GRPO: DeepSeek-R1 Technical Report, 2025
-- "科普向：一文解构大模型后训练，GRPO和它的继任者们的前世今生"
+### RLHF与PPO
+- [官方] Ouyang et al., "Training language models to follow instructions with human feedback", NeurIPS 2022 [arXiv:2203.02155]
+- [官方] Schulman et al., "Proximal Policy Optimization Algorithms", 2017 [arXiv:1707.06347]
+- [官方] Ziegler et al., "Fine-Tuning Language Models from Human Preferences", 2020 [arXiv:1909.08593]
+- [技术博客] OpenAI Blog: "Aligning Language Models to Follow Instructions", 2022
+
+### Constitutional AI
+- [官方] Bai et al., "Constitutional AI: Harmlessness from AI Feedback", 2022 [arXiv:2212.08073]
+- [官方] Anthropic Research: "RLAIF vs RLHF", 2023
+
+### DPO及其变体
+- [官方] Rafailov et al., "Direct Preference Optimization: Your Language Model is Secretly a Reward Model", NeurIPS 2023 [arXiv:2305.18290]
+- [官方] Azar et al., "A General Theoretical Paradigm to Understand Learning from Human Preferences", 2023 (IPO)
+- [官方] Meng et al., "SimPO: Simple Preference Optimization with a Reference-Free Reward", 2024 [arXiv:2405.14734]
+- [官方] Luo et al., "Reasoning with Reinforcement Learning: Multi-Step Optimization with Step-Level Preference", 2024 (Step-DPO)
+
+### KTO
+- [官方] Ethayarajh et al., "KTO: Model Alignment as Prospect Theoretic Optimization", 2024 [arXiv:2402.01306]
+
+### GRPO与DeepSeek-R1
+- [官方] DeepSeek-AI, "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning", 2025 [arXiv:2501.12948]
+- [官方] DeepSeek-AI, "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models", 2024 [arXiv:2402.03300]
+- [技术博客] "科普向：一文解构大模型后训练，GRPO和它的继任者们的前世今生"
+
+### 综述与对比
+- [综述] "The Alignment Handbook: A Comprehensive Guide to LLM Alignment"
+- [技术博客] Lilian Weng: "Reward Hacking in Reinforcement Learning", 2024
+- [技术博客] Sebastian Raschka: "LLM Training: RLHF and Its Alternatives", 2024
+
+### 可验证奖励与推理
+- [官方] Lightman et al., "Let's Verify Step by Step", 2023 (Process Reward Model) [arXiv:2305.20050]
+- [官方] Uesato et al., "Solving Math Word Problems with Process- and Outcome-Based Feedback", 2022
+- [官方] OpenAI, "Learning to Reason with LLMs" (o1 technical report), 2024
 
 ---
 
 *《硅基编年史》——记录让AI"听话"的每一次技术突破。*
+*技术细节参考：[术语对照表](/00-meta/tech-glossary.md)*

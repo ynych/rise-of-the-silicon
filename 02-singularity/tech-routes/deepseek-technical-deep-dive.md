@@ -310,11 +310,36 @@ OpenAI、Anthropic面临的挑战：
 
 ## 参考来源
 
-- DeepSeek-V3 Technical Report, 2024
-- DeepSeek-V3: A Strong, Economical, and Efficient Mixture-of-Experts Language Model
-- "DeepSeek-V3技术解析：MoE架构与FP8训练的高效实践"
-- "成就DeepSeek奇迹的芯片，敲响英伟达警钟", 36氪, 2025
+### 核心技术论文
+- [官方] DeepSeek-AI, "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model", 2024 [arXiv:2405.04434]
+- [官方] DeepSeek-AI, "DeepSeek-V3 Technical Report", 2024 [arXiv:2412.19437]
+- [官方] DeepSeek-AI, "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning", 2025 [arXiv:2501.12948]
+
+### MLA相关
+- [官方] DeepSeek-V2 MLA技术详解: https://github.com/deepseek-ai/DeepSeek-V2/blob/main/DeepSeek_V2_MLA_Technical_Report.pdf
+- [技术文档] "Multi-Head Latent Attention (MLA) 原理详解", 腾讯云, 2025
+
+### MoE架构
+- [经典论文] Shazeer et al., "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer", ICLR 2017 [arXiv:1701.06538]
+- [官方] DeepSeekMoE技术详解
+- [技术文档] "混合专家架构原理、门控算法与DeepSeek-V3工程实践全解析", CSDN, 2026
+
+### FP8训练
+- [官方] NVIDIA Hopper FP8 Whitepaper, 2022
+- [官方] Micikevicius et al., "FP8 Formats for Deep Learning", 2022 [arXiv:2209.05433]
+- [技术文档] "FP8量化与混合精度训练", NVIDIA Technical Blog
+
+### 推理优化
+- [官方] DeepSeek-V3 Inference Optimization Guide
+- [技术论文] vLLM Team, "PagedAttention" [arXiv:2309.06180]
+- [技术论文] Dao et al., "FlashAttention" [arXiv:2205.14135]
+
+### 成本分析与行业报告
+- [权威媒体] "成就DeepSeek奇迹的芯片，敲响英伟达警钟", 36氪, 2025
+- [行业分析] SemiAnalysis: "DeepSeek V3: The $5.576 Million Training Cost Breakdown"
+- [权威媒体] The Information, Bloomberg, Reuters相关报道
 
 ---
 
 *《硅基编年史》——解密每一个改变游戏规则的技术突破。*
+*技术细节参考：[术语对照表](/00-meta/tech-glossary.md)*

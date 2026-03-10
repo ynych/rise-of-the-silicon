@@ -311,11 +311,43 @@ OpenAI o1、DeepSeek R1证明：推理时投入更多算力可以显著提升质
 
 ## 参考来源
 
-- vLLM: "Efficient Memory Management for Large Language Model Serving with PagedAttention", 2023
-- FlashAttention: "Fast and Memory-Efficient Exact Attention with IO-Awareness", 2022
-- DeepSeek-V3 Technical Report, 2024
-- "KV Cache成为LLM优化关键技术", 华安证券, 2025
+### KV Cache与注意力优化
+- [官方] Kwon et al., "Efficient Memory Management for Large Language Model Serving with PagedAttention", SOSP 2023 [arXiv:2309.06180]
+- [官方] Dao et al., "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness", NeurIPS 2022 [arXiv:2205.14135]
+- [官方] Dao, "FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning", 2023 [arXiv:2307.08691]
+- [官方] Shazeer, "Fast Transformer Decoding: One Write-Head is All You Need", 2019 (MQA) [arXiv:1911.02150]
+- [官方] Ainslie et al., "GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints", 2023 [arXiv:2305.13245]
+- [官方] DeepSeek-AI, "DeepSeek-V2 Technical Report" (MLA), 2024 [arXiv:2405.04434]
+
+### KV Cache压缩与驱逐
+- [官方] Zhang et al., "H2O: Heavy-Hitter Oracle for Accurate KV Cache Compression", 2023 [arXiv:2306.14048]
+- [官方] Xiao et al., "Efficient Streaming Language Models with Attention Sinks", 2023 (StreamingLLM) [arXiv:2309.17453]
+- [官方] Li et al., "SnapKV: LLM Knows What You are Looking for Before Generation", 2024 [arXiv:2404.14469]
+
+### 推测解码
+- [官方] Leviathan et al., "Fast Inference from Transformers via Speculative Decoding", 2022 [arXiv:2211.17192]
+- [官方] Chen et al., "Accelerating Large Language Model Decoding with Speculative Sampling", 2023 [arXiv:2302.01318]
+- [官方] Stern et al., "Blockwise Parallel Decoding for Deep Autoregressive Models", 2018 [arXiv:1811.03115]
+- [官方] DeepSeek-AI, "DeepSeek-V3 Technical Report" (MTP), 2024 [arXiv:2412.19437]
+
+### 量化技术
+- [官方] Frantar et al., "GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers", ICLR 2023 [arXiv:2210.17323]
+- [官方] Lin et al., "AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration", 2023 [arXiv:2306.00978]
+- [官方] Xiao et al., "SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models", 2022 [arXiv:2211.10438]
+- [官方] Micikevicius et al., "FP8 Formats for Deep Learning", 2022 [arXiv:2209.05433]
+- [开源] GGUF Format Specification: https://github.com/ggerganov/ggml/blob/master/docs/gguf.md
+
+### 系统优化
+- [开源] vLLM文档: https://docs.vllm.ai/
+- [官方] NVIDIA TensorRT-LLM Documentation
+- [开源] llama.cpp: https://github.com/ggerganov/llama.cpp
+
+### 深度分析文章
+- [行业分析] "KV Cache成为LLM优化关键技术", 华安证券, 2025
+- [技术博客] "LLM Inference Performance Engineering: Best Practices"
+- [技术博客] "The Case for 4-bit Precision: k-bit Inference Scaling Laws"
 
 ---
 
 *《硅基编年史》——记录让AI跑得更快的每一次工程突破。*
+*技术细节参考：[术语对照表](/00-meta/tech-glossary.md)*

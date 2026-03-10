@@ -252,7 +252,29 @@ MoE的架构概念（1991年提出）并不新，但DeepSeek等模型的成功�
 
 ## 信息来源
 
-- [技术文档] DeepSeek-V3技术报告
-- [权威媒体] CSDN：《混合专家架构原理、门控算法与DeepSeek-V3工程实践全解析》（2026-03-01）
-- [技术文档] 腾讯云：《DeepSeek技术架构解析：MLA多头潜在注意力》（2025-11-20）
-- [技术文档] 51CTO：《多头潜在注意力机制（MLA）》（2026-02-13）
+### 原始MoE论文
+- [经典论文] Jacobs et al., "Adaptive Mixtures of Local Experts", Neural Computation 1991
+- [经典论文] Shazeer et al., "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer", ICLR 2017 [arXiv:1701.06538]
+- [官方] Lepikhin et al., "GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding", ICLR 2021 [arXiv:2006.16668]
+- [官方] Fedus et al., "Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity", JMLR 2022 [arXiv:2101.03961]
+
+### 现代MoE模型
+- [官方] DeepSeek-AI, "DeepSeek-V2 Technical Report", 2024 [arXiv:2405.04434]
+- [官方] DeepSeek-AI, "DeepSeek-V3 Technical Report", 2024 [arXiv:2412.19437]
+- [官方] Mistral AI, "Mixtral of Experts", 2023 [arXiv:2401.04088]
+- [官方] Jiang et al., "Mixtral 8x7B", Mistral AI Blog, 2023
+
+### 技术解析
+- [技术文档] "混合专家架构原理、门控算法与DeepSeek-V3工程实践全解析", CSDN, 2026
+- [技术文档] "DeepSeek技术架构解析：MLA多头潜在注意力", 腾讯云, 2025
+- [技术文档] "多头潜在注意力机制（MLA）", 51CTO, 2026
+
+### 工程实践
+- [官方] DeepSeek GitHub: https://github.com/deepseek-ai
+- [开源] Megatron-LM MoE实现: https://github.com/NVIDIA/Megatron-LM
+- [开源] Fairseq MoE: https://github.com/facebookresearch/fairseq/tree/main/examples/moe_lm
+
+---
+
+*《硅基编年史》——记录让AI跑得更快的每一次工程突破。*
+*技术细节参考：[术语对照表](/00-meta/tech-glossary.md)*

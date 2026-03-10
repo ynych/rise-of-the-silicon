@@ -50,17 +50,24 @@ Transformer Architecture
 
 ### 2.2 自注意力机制（Self-Attention）
 
-**核心思想**：序列中每个token可以同时"查看"每个其他token，发现上下文关系。
+**核心思想**：序列中每个token可以同时"查看"每个其他token，发现上下文关系。复杂度为O(n²)，是Transformer处理长序列的主要瓶颈。
 
 **计算过程**：
 ```
 Attention(Q, K, V) = softmax(QK^T / √d_k) V
 ```
 
-- **Q (Query)**：查询向量
-- **K (Key)**：键向量
-- **V (Value)**：值向量
-- **d_k**：键向量的维度（缩放因子防止softmax梯度消失）
+- **Q (Query)**：查询向量，表示当前token的"询问"
+- **K (Key)**：键向量，表示每个token的"标识"
+- **V (Value)**：值向量，表示每个token的"内容"
+- **d_k**：键向量的维度（缩放因子√d_k防止点积过大导致softmax梯度消失）
+
+**多头扩展**：将Q/K/V投影到h个子空间（通常h=8或16），每个头独立计算注意力，最后拼接。使模型能同时关注不同子空间的特征。
+
+**复杂度分析**：
+- 时间复杂度：O(n² × d)，序列长度平方乘以维度
+- 空间复杂度：O(n²)，注意力矩阵存储
+- n=128K时，注意力矩阵占64GB显存
 
 ### 2.3 多头注意力（Multi-Head Attention）
 
@@ -80,18 +87,40 @@ x = x.view(batch_size, seq_len, h, d_k).transpose(1,2)
 
 ### 2.4 位置编码（Positional Encoding）
 
-由于自注意力机制本身不包含位置信息，需要显式添加位置编码：
+由于自注意力机制本身不包含位置信息（permutation invariant），需要显式添加位置编码来注入序列顺序信息。
 
-**原始方案**（正弦/余弦）：
+**原始方案：Sinusoidal位置编码**（Vaswani et al., 2017）
 ```
 PE(pos, 2i) = sin(pos / 10000^(2i/d_model))
 PE(pos, 2i+1) = cos(pos / 10000^(2i/d_model))
 ```
 
+- pos：token在序列中的位置
+- i：维度索引
+- 波长从2π到10000×2π呈几何级数分布
+- **优势**：可外推到训练时未见过的长度
+- **劣势**：相对位置建模能力弱
+
 **后续演进**：
-- RoPE (Rotary Position Embedding)：旋转位置编码
-- ALiBi (Attention with Linear Biases)：线性偏置注意力
-- 可学习位置编码
+
+| 编码方式 | 年份 | 核心思想 | 代表模型 |
+|----------|------|----------|----------|
+| **Learnable PE** | 2018 | 可学习的位置嵌入 | BERT, GPT-2 |
+| **RoPE** | 2021 | 旋转位置编码，通过旋转矩阵注入位置 | LLaMA, DeepSeek |
+| **ALiBi** | 2021 | 线性偏置注意力，在QK^T上添加位置偏置 | BLOOM, MosaicML |
+| **NoPE** | 2024 | 无需显式位置编码，靠分层注意力隐式学习 | 部分现代架构 |
+
+**RoPE详解**（Su et al., 2021）:
+- 将Q、K向量按两两维度分组，每组应用旋转矩阵
+- 旋转角度与位置成正比，自然编码相对位置
+- 外推性：可通过NTK-aware、YaRN等技术扩展上下文
+- 公式：$f(q, m) = q · e^{i·m·θ}$，其中m为位置，θ为预设频率
+
+**ALiBi详解**（Press et al., 2021）:
+- 不添加位置嵌入，而是在注意力分数上添加线性偏置
+- $Attention(Q,K,V) = softmax(QK^T/√d_k + bias)·V$
+- $bias = -m·|i-j|$，m为预设斜率，i,j为位置
+- **优势**：极强的外推能力，训练短序列可推理长序列
 
 ---
 
@@ -315,8 +344,28 @@ DeepSeek-V3证明了：**算法优化可以弥补硬件差距**。MLA、MoE、FP
 
 ## 信息来源
 
-- [官方] Vaswani et al. "Attention Is All You Need" (2017)
-- [权威媒体] 飞书文档：《Transformer, Bert & GPT 三部曲》
+### 核心论文
+- [官方] Vaswani et al., "Attention Is All You Need", NeurIPS 2017 [arXiv:1706.03762]
+- [官方] Devlin et al., "BERT: Pre-training of Deep Bidirectional Transformers", NAACL 2019 [arXiv:1810.04805]
+- [官方] Radford et al., "Improving Language Understanding by Generative Pre-Training", 2018 (GPT-1)
+- [官方] Radford et al., "Language Models are Unsupervised Multitask Learners", 2019 (GPT-2) [OpenAI Blog]
+- [官方] Brown et al., "Language Models are Few-Shot Learners", NeurIPS 2020 (GPT-3) [arXiv:2005.14165]
+- [官方] Ouyang et al., "Training language models to follow instructions with human feedback", NeurIPS 2022 (InstructGPT/RLHF) [arXiv:2203.02155]
+- [官方] Kaplan et al., "Scaling Laws for Neural Language Models", 2020 [arXiv:2001.08361]
+- [官方] Hoffmann et al., "Training Compute-Optimal Large Language Models", 2022 (Chinchilla) [arXiv:2203.15556]
+- [官方] Su et al., "RoFormer: Enhanced Transformer with Rotary Position Embedding", 2021 [arXiv:2104.09864]
+- [官方] Press et al., "Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation", 2021 (ALiBi) [arXiv:2108.12409]
+
+### 技术文档与实现
+- [技术文档] PyTorch官方Transformer实现: https://pytorch.org/docs/stable/nn.html#transformer-layers
+- [技术文档] Hugging Face Transformers文档: https://huggingface.co/docs/transformers
+- [技术文档] Tensor2Tensor原始实现: https://github.com/tensorflow/tensor2tensor
+
+### 综述与分析
 - [权威媒体] Introl：《Transformer革命：如何重塑现代AI》(2025-05)
-- [技术文档] PyTorch官方Transformer实现
-- [多方交叉验证] 模型参数数据来自各公司官方发布
+- [技术博客] Jay Alammar: "The Illustrated Transformer": https://jalammar.github.io/illustrated-transformer/
+- [技术博客] Lilian Weng: "Attention? Attention!": https://lilianweng.github.io/posts/2018-06-24-attention/
+
+### 模型参数与架构数据
+- [官方] 各模型官方技术报告与论文
+- [多方交叉验证] 模型参数数据来自官方发布与第三方分析（Hugging Face, Papers With Code）
