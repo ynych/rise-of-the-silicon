@@ -23,7 +23,7 @@
 ### 时间线：2026-2032
 
 **2026年：AGI元年**
-- 第一套AGI系统发布（可能是OpenAI、DeepMind或中国实验室）
+- 第一套AGI系统发布（可能是[OpenAI](../../02-singularity/organizations/openai-internal-politics.md)、DeepMind或中国实验室）
 - 通过"高级对抗图灵测试"
 - 在数学、编程、科学推理上达到专家水平
 - 社会震惊，股市剧烈波动

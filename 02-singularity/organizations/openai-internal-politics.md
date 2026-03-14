@@ -9,7 +9,7 @@
 
 ## 核心画像
 
-OpenAI是全球最有影响力的AI公司，也是内部政治最复杂的组织。2023年11月的政变、2024年5月超级对齐团队的解散、持续的员工离职潮，揭示了一个根本矛盾：**理想主义（安全优先）与商业主义（产品优先）的不可调和**。Sam Altman代表的加速派最终获胜，但这胜利是有代价的——安全研究的空心化、员工信任的流失、以及一个无法回避的问题：谁来确保AGI的安全？
+OpenAI是全球最有影响力的AI公司，也是内部政治最复杂的组织。2023年11月的[政变](../../00-meta/timeline-v2-iteration2.md#openai政变)、2024年5月超级对齐团队的解散、持续的员工离职潮，揭示了一个根本矛盾：**理想主义（安全优先）与商业主义（产品优先）的不可调和**。[Sam Altman](../../04-characters/kol-top100-detailed.md#sam-altman)代表的加速派最终获胜，但这胜利是有代价的——安全研究的空心化、员工信任的流失、以及一个无法回避的问题：谁来确保AGI的安全？
 
 ---
 
@@ -18,16 +18,16 @@ OpenAI是全球最有影响力的AI公司，也是内部政治最复杂的组织
 ### 超级对齐团队成立
 
 **2023年7月**：
-- Ilya Sutskever主导成立Superalignment团队
+- [Ilya Sutskever](../../04-characters/kol-top100-detailed.md#ilya-sutskever)主导成立Superalignment团队
 - 目标：4年内解决超级智能对齐问题
 - 承诺：获得20%算力资源
 
 ### 政变与后续
 
 **2023年11月**：
-- Ilya联合董事会罢免Sam Altman
+- [Ilya](../../04-characters/kol-top100-detailed.md#ilya-sutskever)联合董事会罢免[Sam Altman](../../04-characters/kol-top100-detailed.md#sam-altman)
 - 微软介入，Altman回归
-- Ilya被踢出董事会
+- [Ilya](../../04-characters/kol-top100-detailed.md#ilya-sutskever)被踢出董事会
 
 **2024年5月**：
 - Ilya宣布离职
@@ -57,8 +57,8 @@ OpenAI是全球最有影响力的AI公司，也是内部政治最复杂的组织
 ### 连锁离职
 
 **2024年以来离职的安全研究人员**：
-- Ilya Sutskever（首席科学家）
-- Jan Leike（超级对齐负责人）
+- [Ilya Sutskever](../../04-characters/kol-top100-detailed.md#ilya-sutskever)（首席科学家）
+- [Jan Leike](../../04-characters/kol-top100-detailed.md#jan-leike)（超级对齐负责人）
 - Leopold Aschenbrenner（被解雇，据称泄露信息）
 - Pavel Izmailov（被解雇）
 - William Saunders（2月离职）
@@ -78,9 +78,9 @@ OpenAI是全球最有影响力的AI公司，也是内部政治最复杂的组织
 - 必须尽快实现，以解决人类面临的重大问题
 - 安全可以边做边解决
 
-**与Ilya的分歧**：
+**与[Ilya](../../04-characters/kol-top100-detailed.md#ilya-sutskever)的分歧**：
 
-| 维度 | Ilya | Altman |
+| 维度 | [Ilya](../../04-characters/kol-top100-detailed.md#ilya-sutskever) | [Altman](../../04-characters/kol-top100-detailed.md#sam-altman) |
 |------|------|--------|
 | **时间观** | 谨慎，先安全后推进 | 加速，边推进边解决 |
 | **风险观** | AI可能毁灭人类 | 不发展AI风险更大 |
@@ -145,12 +145,12 @@ OpenAI是全球最有影响力的AI公司，也是内部政治最复杂的组织
 
 ### 竞争对手
 
-**Anthropic**：
+**[Anthropic](../../04-characters/kol-top100-detailed.md#dario-amodei)**：
 - 吸引大量OpenAI安全研究人员
-- Dario Amodei成为安全派领袖
+- [Dario Amodei](../../04-characters/kol-top100-detailed.md#dario-amodei)成为安全派领袖
 
 **xAI**：
-- Elon Musk利用OpenAI争议招募人才
+- [Elon Musk](../../04-characters/kol-top100-detailed.md#elon-musk)利用OpenAI争议招募人才
 
 ### 公众舆论
 
@@ -178,7 +178,7 @@ OpenAI是全球最有影响力的AI公司，也是内部政治最复杂的组织
 
 ## 结论
 
-OpenAI的故事是一个**理想主义被商业主义收编**的经典案例。Ilya和Leike的出走标志着安全派的彻底失败，加速派在Sam Altman领导下全面掌控公司。这种选择或许能带来更快的技术进步，但也可能埋下巨大的安全隐患。当AGI真正来临时，人们或许会问：如果当时听Ilya的，会不会更安全？
+OpenAI的故事是一个**理想主义被商业主义收编**的经典案例。[Ilya](../../04-characters/kol-top100-detailed.md#ilya-sutskever)和[Leike](../../04-characters/kol-top100-detailed.md#jan-leike)的出走标志着安全派的彻底失败，加速派在[Sam Altman](../../04-characters/kol-top100-detailed.md#sam-altman)领导下全面掌控公司。这种选择或许能带来更快的技术进步，但也可能埋下巨大的安全隐患。当AGI真正来临时，人们或许会问：如果当时听[Ilya](../../04-characters/kol-top100-detailed.md#ilya-sutskever)的，会不会更安全？
 
 ---
 

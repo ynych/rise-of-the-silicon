@@ -25,7 +25,7 @@
 ```
 
 **代表**：
-- **CLIP**（OpenAI, 2021）：对比学习对齐图文
+- **CLIP**（[OpenAI](../../02-singularity/organizations/openai-internal-politics.md), 2021）：对比学习对齐图文
 - **LLaVA**（2023）：LLaMA + CLIP视觉编码器
 - **MiniGPT-4**（2023）：GPT-4 + 视觉编码器
 
@@ -63,7 +63,7 @@
 - 任意模态输入，任意模态输出
 
 **代表**：
-- **GPT-4o**（2024）：文本+图像+音频端到端
+- **GPT-4o**（[2024](../../00-meta/timeline-v2-iteration2.md#2024)）：文本+图像+音频端到端
 - **Gemini 2.0**（2024）：原生多模态，支持视频
 - **Claude 3.5 Sonnet**（2024）：视觉推理大幅提升
 

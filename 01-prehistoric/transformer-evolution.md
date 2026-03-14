@@ -4,10 +4,10 @@
 
 ### 1.1 论文诞生
 
-**2017年6月**，谷歌Brain团队的8位作者在论文《Attention Is All You Need》中提出了Transformer架构，彻底改变了自然语言处理领域的技术路径。
+**[2017年6月](../../00-meta/timeline-v2-iteration2.md#transformer)**，谷歌Brain团队的8位作者在论文《Attention Is All You Need》中提出了Transformer架构，彻底改变了自然语言处理领域的技术路径。
 
 **八位作者**（按论文顺序）：
-- Ashish Vaswani（Google Brain）
+- [Ashish Vaswani](../../04-characters/deep-profiles-complete.md#ashish-vaswani)（Google Brain）
 - Noam Shazeer（Google Brain）
 - Niki Parmar（Google Research）
 - Jakob Uszkoreit（Google Research）

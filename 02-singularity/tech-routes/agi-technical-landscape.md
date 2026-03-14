@@ -22,7 +22,7 @@
 
 ### 1.1 语言模型路线：当前主流
 
-**代表**：OpenAI（GPT系列）、Anthropic（Claude）、Google（Gemini）
+**代表**：[OpenAI](../../02-singularity/organizations/openai-internal-politics.md)（GPT系列）、[Anthropic](../../02-singularity/organizations/openai-internal-politics.md)（Claude）、Google（Gemini）
 
 **核心假设**：语言是智能的核心载体。通过在海量文本数据上训练自回归模型，让AI学习人类知识的压缩表示，可以逐步逼近通用智能。
 

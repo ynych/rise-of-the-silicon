@@ -2,13 +2,16 @@
 
 > 一部关于人工智能时代的非虚构素材库
 
-**总字数**：250,000+ 字 | **文档数**：50+个 | **GitHub**：[ynych/rise-of-the-silicon](https://github.com/ynych/rise-of-the-silicon)
+**总字数**：260,000+ 字 | **文档数**：50+个 | **GitHub**：[ynych/rise-of-the-silicon](https://github.com/ynych/rise-of-the-silicon)
 
 ---
 
 ## 快速开始
 
-📖 **项目总览与使用指南** → [`project-overview.md`](project-overview.md)
+📖 **阅读指南**：
+- **5分钟速读** → [`5min-version.md`](5min-version.md)（3000字核心故事）
+- **30分钟深度** → [`30min-version.md`](30min-version.md)（3万字精选）
+- **完整素材库** → [`00-meta/NAVIGATION.md`](00-meta/NAVIGATION.md)（25万字）
 
 核心内容导航：
 - **AI转折点全景图** → `00-meta/timeline-v2-iteration2.md`

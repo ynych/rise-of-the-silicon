@@ -2,12 +2,12 @@
 
 ## 一、深度学习三巨头与学术派系
 
-### 1.1 Geoffrey Hinton（"深度学习教父"）
+### 1.1 [Geoffrey Hinton](../../04-characters/deep-profiles-complete.md#geoffrey-hinton)（"深度学习教父"）
 
 **核心贡献**：
 - 反向传播算法（1986年）
 - 深度置信网络（DBN）
-- 2012年ImageNet比赛AlexNet的导师（学生：Alex Krizhevsky、Ilya Sutskever）
+- 2012年ImageNet比赛AlexNet的导师（学生：Alex Krizhevsky、[Ilya Sutskever](../../04-characters/deep-profiles-complete.md#ilya-sutskever)）
 
 **关键转折点**：
 - 2012年：ImageNet比赛后，深度学习开始爆发
@@ -19,7 +19,7 @@
 - 晚年对AI安全产生深刻忧虑
 - 2024年与John Hopfield共享诺贝尔物理学奖
 
-### 1.2 Yann LeCun（卷积网络之父）
+### 1.2 [Yann LeCun](../../04-characters/deep-profiles-complete.md#yann-lecun)（卷积网络之父）
 
 **核心贡献**：
 - 卷积神经网络（LeNet，1989年）
@@ -36,7 +36,7 @@
 - 认为当前大模型只是"操纵语言"而非"理解世界"
 - 力推"世界模型"（World Models）概念
 
-### 1.3 Yoshua Bengio
+### 1.3 [Yoshua Bengio](../../04-characters/deep-profiles-complete.md#yoshua-bengio)
 
 **核心贡献**：
 - 循环神经网络（RNN）和LSTM的推动者
@@ -96,7 +96,7 @@
 - Elon Musk公开批评"背离初心"
 
 **内部矛盾**：
-- Ilya Sutskever：坚持AGI安全研究
+- [Ilya Sutskever](../../04-characters/deep-profiles-complete.md#ilya-sutskever)：坚持AGI安全研究
 - Sam Altman：推动商业化
 - 裂痕种子在此埋下
 
@@ -110,7 +110,7 @@
 - Sam Altman（Y Combinator总裁）
 - Elon Musk（特斯拉/SpaceX）
 - Greg Brockman（Stripe CTO）
-- Ilya Sutskever（Google Brain）
+- [Ilya Sutskever](../../04-characters/deep-profiles-complete.md#ilya-sutskever)（Google Brain）
 - 其他：Wojciech Zaremba、John Schulman等
 
 **使命**："确保通用人工智能（AGI）造福全人类"
@@ -135,7 +135,7 @@
 
 **时间线**：
 - 11月17日：董事会解雇Sam Altman
-- 原因：Ilya Sutskever认为Altman"不够关注AI安全"
+- 原因：[Ilya Sutskever](../../04-characters/deep-profiles-complete.md#ilya-sutskever)认为Altman"不够关注AI安全"
 - 员工威胁集体离职（700+人签名）
 - 11月21日：Altman回归，Ilya边缘化
 
@@ -144,7 +144,7 @@
 - 速度派 vs 谨慎派
 - 最终商业化派获胜
 
-**Ilya的结局**：
+**[Ilya](../../04-characters/deep-profiles-complete.md#ilya-sutskever)的结局**：
 - 2024年离开OpenAI
 - 创立SSI（Safe Superintelligence Inc.）
 - "超级对齐"成为个人信仰
@@ -219,7 +219,7 @@
 **OpenAI系**：
 - Altman、Brockman、Mira Murati
 - Ilya（已离开）
-- 前员工创立Anthropic（Dario Amodei等）
+- 前员工创立[Anthropic](../../02-singularity/organizations/openai-internal-politics.md)（Dario Amodei等）
 
 **创业派**：
 - Transformer 8人组全员创业
@@ -233,7 +233,7 @@
 ### 6.1 开源阵营
 
 **代表人物**：
-- Yann LeCun（Meta AI，Llama开源）
+- [Yann LeCun](../../04-characters/deep-profiles-complete.md#yann-lecun)（Meta AI，Llama开源）
 - Clement Delangue（Hugging Face）
 -  Stability AI（Emad Mostaque，已离职）
 

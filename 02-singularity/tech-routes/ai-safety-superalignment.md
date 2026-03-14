@@ -9,7 +9,7 @@
 
 ## 核心洞察
 
-AI安全从边缘议题变成核心战略。OpenAI承诺将20%的算力投入Superalignment（超级对齐）研究，Ilya Sutskever因安全理念分歧离开OpenAI创立SSI（Safe Superintelligence）。这不是杞人忧天——随着o1、R1展现出超越人类的推理能力，**"对齐"（Alignment）问题从学术假设变成了工程紧迫性**。问题在于：我们能否在自己创造的、比自己更聪明的系统中，植入永不背叛的"价值观"？
+AI安全从边缘议题变成核心战略。[OpenAI](../../02-singularity/organizations/openai-internal-politics.md)承诺将20%的算力投入Superalignment（超级对齐）研究，[Ilya Sutskever](../../04-characters/deep-profiles-complete.md#ilya-sutskever)因安全理念分歧离开OpenAI创立SSI（Safe Superintelligence）。这不是杞人忧天——随着o1、R1展现出超越人类的推理能力，**"对齐"（Alignment）问题从学术假设变成了工程紧迫性**。问题在于：我们能否在自己创造的、比自己更聪明的系统中，植入永不背叛的"价值观"？
 
 ---
 
@@ -75,8 +75,8 @@ AI安全从边缘议题变成核心战略。OpenAI承诺将20%的算力投入Sup
 
 ### Superalignment团队成立
 
-2023年7月，OpenAI宣布成立Superalignment团队：
-- **负责人**：Ilya Sutskever + Jan Leike
+[2023年7月](../../00-meta/timeline-v2-iteration2.md#2023)，OpenAI宣布成立Superalignment团队：
+- **负责人**：[Ilya Sutskever](../../04-characters/deep-profiles-complete.md#ilya-sutskever) + Jan Leike
 - **目标**：4年内解决超级智能对齐问题
 - **资源**：20%的算力预算
 

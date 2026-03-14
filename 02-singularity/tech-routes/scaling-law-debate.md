@@ -4,7 +4,7 @@
 
 ### 1.1 悲观派：预训练时代终结
 
-**Ilya Sutskever（2024年底 NeurIPS）**：
+**[Ilya Sutskever](../../04-characters/deep-profiles-complete.md#ilya-sutskever)（2024年底 NeurIPS）**：
 > "我们所熟知的预训练即将终结。数据是AI的化石燃料，随着全球数据的限制，未来人工智能将面临数据瓶颈。"
 
 **核心论点**：
@@ -12,7 +12,7 @@
 - 单纯增加参数规模和训练数据的边际效益递减
 - GPT-5（Orion）未达预期性能提升
 
-**Yann LeCun**：
+**[Yann LeCun](../../04-characters/deep-profiles-complete.md#yann-lecun)**：
 - LLMs不是AGI的正确基础技术
 - 文本是较差的训练信息来源
 - 批评"为了盈利而夸大AGI即将到来"
@@ -38,7 +38,7 @@
 
 ### 1.3 关键转折点
 
-**DeepSeek-R1的意义（2025年1月）**：
+**[DeepSeek-R1](../../02-singularity/organizations/deepseek-organization.md)的意义（2025年1月）**：
 > "它的意义不在于从零发明，而是用极低的成本和开放的姿态向全行业证明：Scaling Law并没有撞墙，它只是换了引擎。"
 
 - 强化学习驱动的思维链（CoT）展现"慢思考"能力

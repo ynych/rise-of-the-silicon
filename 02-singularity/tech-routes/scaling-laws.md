@@ -13,7 +13,7 @@ Scaling Law曾是大模型时代的"第一性原理"：模型越大、数据越�
 
 ---
 
-## Kaplan Scaling Law：OpenAI的开山之作
+## Kaplan Scaling Law：[OpenAI](../../02-singularity/organizations/openai-internal-politics.md)的开山之作
 
 ### 2020年论文的核心发现
 
@@ -42,7 +42,7 @@ Loss ∝ (Data)^(-0.095)
 
 ---
 
-## Chinchilla：DeepMind的颠覆
+## Chinchilla：[DeepMind](../../00-meta/timeline-v2-iteration2.md#alphafold-2-2021)的颠覆
 
 ### 2022年论文的核心发现
 

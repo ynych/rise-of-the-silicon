@@ -48,7 +48,7 @@
 - 学生：DistilBERT (66M)
 - 效果：保留97%能力，快60%
 
-**DeepSeek R1蒸馏**：
+**[DeepSeek R1](../../02-singularity/organizations/deepseek-organization.md)蒸馏**：
 - 教师：DeepSeek-R1 (671B MoE)
 - 学生：Qwen-32B、Llama-70B
 - 效果：小模型获得强推理能力

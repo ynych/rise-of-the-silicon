@@ -67,7 +67,7 @@ Transformer推理时需要缓存历史token的Key和Value：
 
 ### 方案2：MLA（多头潜在注意力）
 
-DeepSeek的核心创新：
+[DeepSeek](../../02-singularity/organizations/deepseek-organization.md)的核心创新：
 ```
 标准MHA：KV Cache = n × d_head × n_heads × 2
 MLA：     KV Cache = n × d_c × 2，其中 d_c << d_head × n_heads

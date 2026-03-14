@@ -14,7 +14,7 @@ MoE（Mixture of Experts，混合专家）并非新技术。
 
 **关键转折点**：
 - **Mixtral 8x7B**：用13B的实际计算量击败Llama 2 70B
-- **DeepSeek-V3**：671B参数，仅560万美元训练成本
+- **[DeepSeek-V3](../../02-singularity/organizations/deepseek-organization.md)**：671B参数，仅560万美元训练成本
 - **Kimi K2**：1.04万亿参数，跻身开源榜首
 
 ### 1.2 核心问题
@@ -176,7 +176,7 @@ MoE解决FFN的效率问题，MLA解决Attention的显存问题。
 
 ### 5.1 训练成本争议
 
-**DeepSeek-V3官方宣称**：557万美元
+**[DeepSeek-V3](../../02-singularity/organizations/deepseek-organization.md)官方宣称**：557万美元
 **SemiAnalysis报告**：实际可能高达13亿美元（含基建和运维）
 
 **争议焦点**：

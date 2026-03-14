@@ -15,15 +15,15 @@
 
 | 人物 | 机构 | AGI预测时间 | 置信度 | 关键观点 | 预测依据 |
 |------|------|------------|--------|---------|---------|
-| **[Sam Altman](/04-characters/kol-top100-detailed.md#1-sam-altman--openai-ceo-835分)** | OpenAI | 2025-2027 | 高 | "我们正接近AGI，但定义很重要" | 内部路线图、技术进展 |
-| **[Dario Amodei](/04-characters/kol-top100-detailed.md#7-dario-amodei--anthropic-ceo-745分)** | Anthropic | 2026-2027 | 高 | "2-3年内实现，前提是解决对齐问题" | 安全研究进度、模型能力曲线 |
-| **[Demis Hassabis](/04-characters/kol-top100-detailed.md#6-demis-hassabis--deepmind-ceo-760分)** | DeepMind | 2030 | 中 | "需要根本性突破，不只是规模" | 科学发现AI的复杂性 |
-| **[Yann LeCun](/04-characters/kol-top100-detailed.md#4-yann-lecun--meta首席ai科学家-770分)** | Meta | 不确定/较远 | 低 | "当前大模型不是通往AGI的路" | 对[LLM](/02-singularity/tech-routes/transformer-evolution.md)局限性的技术判断 |
-| **[Ilya Sutskever](/04-characters/kol-top100-detailed.md#5-ilya-sutskever--ssi创始人-765分)** | SSI | 未明确/很快 | 中 | "超级智能可能突然到来" | 对递归自我改进的担忧 |
-| **[Elon Musk](/04-characters/kol-top100-detailed.md#13-elon-musk--xai创始人-680分)** | xAI | 2025年底 | 中 | "比人们想象的更快" | 工程直觉、行业观察 |
+| **[Sam Altman](../../04-characters/deep-profiles-complete.md#sam-altman)** | [OpenAI](../../02-singularity/organizations/openai-internal-politics.md) | 2025-2027 | 高 | "我们正接近AGI，但定义很重要" | 内部路线图、技术进展 |
+| **[Dario Amodei](../../04-characters/deep-profiles-complete.md#dario-amodei)** | Anthropic | 2026-2027 | 高 | "2-3年内实现，前提是解决对齐问题" | 安全研究进度、模型能力曲线 |
+| **[Demis Hassabis](../../04-characters/deep-profiles-complete.md#demis-hassabis)** | [DeepMind](../../02-singularity/organizations/google-deepmind-story.md) | 2030 | 中 | "需要根本性突破，不只是规模" | 科学发现AI的复杂性 |
+| **[Yann LeCun](../../04-characters/deep-profiles-complete.md#yann-lecun)** | Meta | 不确定/较远 | 低 | "当前大模型不是通往AGI的路" | 对[LLM](../../02-singularity/tech-routes/transformer-evolution.md)局限性的技术判断 |
+| **[Ilya Sutskever](../../04-characters/deep-profiles-complete.md#ilya-sutskever)** | SSI | 未明确/很快 | 中 | "超级智能可能突然到来" | 对递归自我改进的担忧 |
+| **[Elon Musk](../../04-characters/deep-profiles-complete.md#elon-musk)** | [xAI](../../02-singularity/organizations/) | 2025年底 | 中 | "比人们想象的更快" | 工程直觉、行业观察 |
 | **Ray Kurzweil** | Google | 2029 | 中 | 长期预测保持一致 | 指数增长定律 |
-| **[Yoshua Bengio](/04-characters/kol-top100-detailed.md#26-yoshua-bengio--蒙特利尔大学教授-615分)** | Mila | 谨慎/未明确 | 低 | 强调安全风险 | 对AI安全的深度关注 |
-| **[Geoffrey Hinton](/04-characters/kol-top100-detailed.md#3-geoffrey-hinton--深度学习教父-780分)** | 多伦多大学 | 2027-2029 | 中 | 退出Google警告风险 | 对深度学习潜力的重新评估 |
+| **[Yoshua Bengio](../../04-characters/deep-profiles-complete.md#yoshua-bengio)** | Mila | 谨慎/未明确 | 低 | 强调安全风险 | 对AI安全的深度关注 |
+| **[Geoffrey Hinton](../../04-characters/deep-profiles-complete.md#geoffrey-hinton)** | 多伦多大学 | 2027-2029 | 中 | 退出Google警告风险 | 对深度学习潜力的重新评估 |
 
 ### 1.2 机构路线图预测
 
@@ -66,15 +66,15 @@
 | 2027 Q2 | 广泛AGI能力展示 | 中 | 技术整合速度 |
 | 2027 Q4 | AGI定义达成共识 | 低 | 学术界争论可能持续 |
 
-#### 中期（[2028-2030](/00-meta/timeline-turning-points.md#奇点技术奇点2030)）：AGI确立期
+#### 中期（[2028-2030](../../00-meta/timeline-v2-iteration2.md#奇点技术奇点2030)）：AGI确立期
 
 | 时间节点 | 预测事件 | 置信度 | 依据 |
 |---------|---------|--------|------|
-| **[2028年](/00-meta/timeline-turning-points.md#预测转折点2025-2030)** | 首个被普遍认可的AGI系统 | 中 | 技术+社会接受度 |
+| **[2028年](../../00-meta/timeline-v2-iteration2.md#预测转折点2025-2030)** | 首个被普遍认可的AGI系统 | 中 | 技术+社会接受度 |
 | 2029 | AGI经济影响显现 | 高 | 自动化渗透速度 |
-| **[2030年](/00-meta/timeline-turning-points.md#奇点技术奇点2030)** | 多极AGI格局形成 | 中 | 中美欧技术竞争 |
+| **[2030年](../../00-meta/timeline-v2-iteration2.md#奇点技术奇点2030)** | 多极AGI格局形成 | 中 | 中美欧技术竞争 |
 
-#### 长期（[2030](/00-meta/timeline-turning-points.md#奇点技术奇点2030)-2035）：超级智能探索期
+#### 长期（[2030](../../00-meta/timeline-v2-iteration2.md#奇点技术奇点2030)-2035）：超级智能探索期
 
 | 时间节点 | 预测事件 | 置信度 | 依据 |
 |---------|---------|--------|------|
@@ -91,7 +91,7 @@
 
 | 代表人物 | 机构 | 核心观点 | 置信度依据 |
 |---------|------|---------|-----------|
-| **[Sam Altman](/04-characters/kol-top100-detailed.md#1-sam-altman--openai-ceo-835分)** | OpenAI | AI风险被夸大，速度即正义，监管应适度 | OpenAI的商业利益、技术乐观主义 |
+| **[Sam Altman](../../04-characters/deep-profiles-complete.md#sam-altman)** | [OpenAI](../../02-singularity/organizations/openai-internal-politics.md) | AI风险被夸大，速度即正义，监管应适度 | OpenAI的商业利益、技术乐观主义 |
 | Marc Andreessen | a16z | " techno-optimist "，反对过度监管 | 风险投资回报、自由市场信念 |
 | Yann LeCun | Meta | 当前AI远非危险，担忧是科幻 | 技术判断、对LLM局限性的理解 |
 | Balaji Srinivasan | 独立 | 去中心化AI是 answer | 加密文化、反权威主义 |
@@ -106,8 +106,8 @@
 
 | 代表人物 | 机构 | 核心观点 | 置信度依据 |
 |---------|------|---------|-----------|
-| **[Ilya Sutskever](/04-characters/kol-top100-detailed.md#5-ilya-sutskever--ssi创始人-765分)** | SSI | 超级智能可能突然到来，需要紧急准备 | 对递归改进的深刻理解 |
-| **[Dario Amodei](/04-characters/kol-top100-detailed.md#7-dario-amodei--anthropic-ceo-745分)** | Anthropic | 安全必须先于能力 | Anthropic的 [Constitutional AI](/02-singularity/tech-routes/post-training-methods.md) 研究 |
+| **[Ilya Sutskever](../../04-characters/deep-profiles-complete.md#ilya-sutskever)** | SSI | 超级智能可能突然到来，需要紧急准备 | 对递归改进的深刻理解 |
+| **[Dario Amodei](../../04-characters/deep-profiles-complete.md#dario-amodei)** | Anthropic | 安全必须先于能力 | Anthropic的 [Constitutional AI](../../02-singularity/tech-routes/post-training-methods.md) 研究 |
 | Max Tegmark | MIT | 需要国际协调暂停 | 《生命3.0》作者、AI风险研究 |
 | Stuart Russell | Berkeley | 对齐问题是核心挑战 | 《人类兼容》作者 |
 | Eliezer Yudkowsky | MIRI | 对齐可能无法解决 | 长期AI安全研究、贝叶斯推理 |

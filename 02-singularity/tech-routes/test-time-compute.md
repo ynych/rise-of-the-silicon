@@ -9,7 +9,7 @@
 
 ## 核心洞察
 
-2024年底，OpenAI o1的发布标志着大模型竞赛进入新阶段：**Test-time Compute Scaling（推理时计算扩展）**成为与预训练Scaling Law同等重要的新范式。o1不是通过更大的模型或更多的训练数据取胜，而是通过**在推理阶段投入更多计算**——让模型生成更长的思维链（Chain-of-Thought）、尝试多种路径、自我纠错。DeepSeek R1用极低成本复现了这一能力，证明推理时扩展并非OpenAI独有。这场"思考革命"正在重新定义AI的能力边界：同样的模型，思考10秒 vs 思考10分钟，答案质量天差地别。
+2024年底，[OpenAI](../../02-singularity/organizations/openai-internal-politics.md) o1的发布标志着大模型竞赛进入新阶段：**Test-time Compute Scaling（推理时计算扩展）**成为与预训练Scaling Law同等重要的新范式。o1不是通过更大的模型或更多的训练数据取胜，而是通过**在推理阶段投入更多计算**——让模型生成更长的思维链（Chain-of-Thought）、尝试多种路径、自我纠错。[DeepSeek R1](../../02-singularity/organizations/deepseek-organization.md)用极低成本复现了这一能力，证明推理时扩展并非OpenAI独有。这场"思考革命"正在重新定义AI的能力边界：同样的模型，思考10秒 vs 思考10分钟，答案质量天差地别。
 
 ---
 
@@ -114,7 +114,7 @@
 
 ---
 
-## DeepSeek R1：低成本的逆袭
+## [DeepSeek R1](../../02-singularity/organizations/deepseek-organization.md)：低成本的逆袭
 
 ### 技术路线差异
 

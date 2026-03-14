@@ -9,7 +9,7 @@
 
 ## 核心画像
 
-字节跳动是中国互联网最具流量的公司，但在大模型竞赛中却是**后发者**。2023年才成立Seed团队，比百度、阿里晚了至少一年。朱文佳带领团队用流量优势迅速将豆包推成国内用户量第一的AI应用，但DeepSeek的横空出世暴露了技术差距。2025年2月，原Google DeepMind副总裁吴永辉空降，字节Seed进入"吴永辉时代"——从应用驱动转向技术驱动，从跟随者转向挑战者。
+字节跳动是中国互联网最具流量的公司，但在大模型竞赛中却是**后发者**。2023年才成立Seed团队，比百度、阿里晚了至少一年。朱文佳带领团队用流量优势迅速将豆包推成国内用户量第一的AI应用，但[DeepSeek](../../02-singularity/organizations/deepseek-organization.md)的横空出世暴露了技术差距。2025年2月，原[Google DeepMind](../../02-singularity/organizations/google-deepmind-story.md)副总裁[吴永辉](../../04-characters/kol-top100-detailed.md#吴永辉)空降，字节Seed进入"吴永辉时代"——从应用驱动转向技术驱动，从跟随者转向挑战者。
 
 ---
 
@@ -72,7 +72,7 @@
 
 ### 人事地震
 
-**2025年2月21日**：原Google DeepMind副总裁吴永辉加入字节，担任Seed基础研究负责人。
+**2025年2月21日**：原[Google DeepMind](../../02-singularity/organizations/google-deepmind-story.md)副总裁[吴永辉](../../04-characters/kol-top100-detailed.md#吴永辉)加入字节，担任Seed基础研究负责人。
 
 **架构调整**：
 - 朱文佳汇报对象从梁汝波变为吴永辉（后被纠正为两人同时向梁汝波汇报）

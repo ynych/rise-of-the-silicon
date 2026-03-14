@@ -46,11 +46,11 @@
 
 **现实人物** | **小说角色** | **角色定位** | **核心冲突**
 ---|---|---|---
-Sam Altman | "亚历山大·陈" | OpenAI型公司CEO | 理想主义与商业现实的撕裂
-Demis Hassabis | "大卫·哈桑" | DeepMind型科学家 | 科学追求与伦理责任的平衡
-Ilya Sutskever | "伊利亚·科恩" | 安全主义先知 | 被边缘化的警告者 vs 事后先知
-Geoffrey Hinton | "亨利·格雷" | 学术良知 | 晚年觉醒的负罪感
-Elon Musk | "埃里克·马尔斯" | 技术狂人与企业家 | 拯救者还是毁灭者？
+[Sam Altman](../../04-characters/deep-profiles-complete.md#sam-altman) | "亚历山大·陈" | OpenAI型公司CEO | 理想主义与商业现实的撕裂
+[Demis Hassabis](../../04-characters/deep-profiles-complete.md#demis-hassabis) | "大卫·哈桑" | DeepMind型科学家 | 科学追求与伦理责任的平衡
+[Ilya Sutskever](../../04-characters/deep-profiles-complete.md#ilya-sutskever) | "伊利亚·科恩" | 安全主义先知 | 被边缘化的警告者 vs 事后先知
+[Geoffrey Hinton](../../04-characters/deep-profiles-complete.md#geoffrey-hinton) | "亨利·格雷" | 学术良知 | 晚年觉醒的负罪感
+[Elon Musk](../../04-characters/deep-profiles-complete.md#elon-musk) | "埃里克·马尔斯" | 技术狂人与企业家 | 拯救者还是毁灭者？
 梁文锋 | "陆文峰" | 中国AI创业者 | 效率与安全的东方选择
 杨植麟 | "杨志远" | 中国AI科学家 | 归国者的理想与现实
 
@@ -82,7 +82,7 @@ Elon Musk | "埃里克·马尔斯" | 技术狂人与企业家 | 拯救者还是�
 
 **真实事件** | **小说情节** | **叙事功能**
 ---|---|---
-OpenAI政变（2023） | "新纪元公司"董事会政变 | 权力斗争的缩影
+[OpenAI政变](../../02-singularity/organizations/openai-internal-politics.md)（2023） | "新纪元公司"董事会政变 | 权力斗争的缩影
 ChatGPT发布（2022） | "对话者"上线 | 奇点临近的序幕
 AlphaFold突破（2020-2024） | "生命解码"项目 | 科学AI的潜力与风险
 芯片战争（2022-至今） | "硅晶之战" | 地缘政治背景
@@ -159,7 +159,7 @@ Hinton辞职警告（2023） | 格雷教授公开忏悔 | 良知的声音
 
 **第一部：《火种》（2012-2022）**
 - **副标题**：深度学习革命的前夜
-- **主线**：Hinton、LeCun、Bengio等科学家的奋斗
+- **主线**：[Hinton](../../04-characters/deep-profiles-complete.md#geoffrey-hinton)、LeCun、Bengio等科学家的奋斗
 - **副线**：AlexNet、AlphaGo等技术突破背后的故事
 - **基调**：乐观、充满希望
 - **结尾**：ChatGPT发布，奇点临近

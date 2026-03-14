@@ -2,6 +2,8 @@
 
 ## 一、性能差距演变
 
+详见[DeepSeek组织分析](../../02-singularity/organizations/deepseek-organization.md)、[阿里Qwen](../../02-singularity/organizations/alibaba-qwen-story.md)。
+
 ### 1.1 关键时间节点
 
 | 时间 | 美国模型 | 中国模型 | 差距 |
@@ -14,9 +16,9 @@
 - 中美顶级AI模型性能差距从2023年的20%缩小至**0.3%**
 - DeepSeek领衔的开源模型与闭源巨头差距从8%缩小至**1.7%**
 
-### 1.2 关键转折点：DeepSeek时刻
+### 1.2 关键转折点：[DeepSeek时刻](../../00-meta/timeline-v2-iteration2.md#202501--deepseek-r1东方破局的标志性时刻)
 
-**2024年12月26日：DeepSeek-V3发布**
+**2024年12月26日：[DeepSeek-V3发布](../../04-characters/deep-profiles-complete.md#梁文锋-效率革命的布道者)**
 - 性能：超越Llama-3.1-405B，与GPT-4o、Claude-3.5-Sonnet不分伯仲
 - 训练成本：**仅557.6万美元**（使用2048块H800）
 - 震撼点：证明低成本也能训练顶级模型

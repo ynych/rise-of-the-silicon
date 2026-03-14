@@ -186,7 +186,7 @@
 - 多语言支持，消除语言障碍
 - 情感支持，识别学习困难和情绪问题
 
-**案例：Khan Academy的AI导师（2024-2027）**
+**案例：Khan Academy的[AI导师](../../02-singularity/tech-routes/post-training-methods.md)（2024-2027）**
 Sal Khan的Khanmigo在2024年推出，到2027年已服务超过1亿学生。它不仅能够教授知识，还能：
 - 通过对话激发学生思考，而非直接给答案
 - 识别学生的知识漏洞并提供针对性练习

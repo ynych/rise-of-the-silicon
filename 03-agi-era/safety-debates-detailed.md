@@ -4,7 +4,7 @@
 
 ### 1.1 安全保守派
 
-**Geoffrey Hinton（AI教父）**
+**[Geoffrey Hinton](../../04-characters/deep-profiles-complete.md#geoffrey-hinton)（AI教父）**
 
 **历史立场（2023-2024）**：
 - 从谷歌离职以警告AI风险
@@ -19,7 +19,7 @@
 - 从"对抗"转向"共生"思路
 - 但继续批评马斯克和Altman的某些做法
 
-**Ilya Sutskever**
+**[Ilya Sutskever](../../04-characters/deep-profiles-complete.md#ilya-sutskever)**
 
 **核心理念**：
 > "2010年代是规模扩大的时代，现在人们又回到了奇迹和发现的时代。"
@@ -34,7 +34,7 @@
 - 2024年5月离开OpenAI创立SSI
 - 专注"纯粹"的安全研究，无产品压力
 
-**Dario Amodei（Anthropic CEO）**
+**[Dario Amodei](../../04-characters/deep-profiles-complete.md#dario-amodei)（Anthropic CEO）**
 
 **立场**：
 - AGI可能在2026-2027年实现
@@ -48,7 +48,7 @@
 
 ### 1.2 速度优先派
 
-**Sam Altman（OpenAI CEO）**
+**[Sam Altman](../../04-characters/deep-profiles-complete.md#sam-altman)（OpenAI CEO）**
 
 **立场演变**：
 - 2015年：强调AGI安全，非营利使命
@@ -66,7 +66,7 @@
 - Ilya："Sam不应该掌握AGI的命运"
 - 前员工：数十个撒谎或其他有害行为的例子
 
-**Elon Musk**
+**[Elon Musk](../../04-characters/deep-profiles-complete.md#elon-musk)**
 
 **立场**：
 - AGI不可避免，但必须开源/可控
@@ -78,7 +78,7 @@
 - 2024年起诉OpenAI
 - 创立xAI（Grok模型）
 
-**Jensen Huang（黄仁勋）**
+**[Jensen Huang](../../04-characters/deep-profiles-complete.md#黄仁勋)（黄仁勋）**
 
 **立场**：
 - 算力是核心，AI需要大量基础设施

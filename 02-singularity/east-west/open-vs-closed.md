@@ -78,10 +78,10 @@
 
 ## 三、关键转折点
 
-### 3.1 DeepSeek时刻（2025年1月）
+### 3.1 [DeepSeek时刻](../../00-meta/timeline-v2-iteration2.md#202501--deepseek-r1东方破局的标志性时刻)（2025年1月）
 
 **冲击**：
-- 开源模型性能比肩闭源顶尖模型
+- [梁文锋](../../04-characters/deep-profiles-complete.md#梁文锋-效率革命的布道者)带领的[DeepSeek](../../02-singularity/organizations/deepseek-organization.md)发布开源模型，性能比肩闭源顶尖模型
 - 成本仅为闭源1/10
 - 彻底开源（允许蒸馏、商用）
 

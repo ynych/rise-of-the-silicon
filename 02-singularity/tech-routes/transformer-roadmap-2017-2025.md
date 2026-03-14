@@ -1,6 +1,8 @@
-# Transformer架构演进史（2017-2025）
+# Transformer架构演进路线图（2017-2025）
 
 > 从"Attention Is All You Need"到MoE再到Mamba——一场由成本与效率驱动的架构革命
+> 
+> 📌 本文档侧重**演进史与路线对比**，技术详解请参考 [`01-prehistoric/transformer-evolution.md`](../../01-prehistoric/transformer-evolution.md)
 
 **字数**：约4,000字  
 **最后更新**：2026-03-08
@@ -17,7 +19,7 @@ Transformer架构的八年演进，可以用三条主线概括：**从稠密到�
 
 ### 2017：改变一切的论文
 
-2017年6月，Google Brain团队发布《Attention Is All You Need》，提出Transformer架构。这篇论文最初只是为机器翻译任务设计，却意外成为整个深度学习时代的奠基之作。
+[2017年6月](../../00-meta/timeline-v2-iteration2.md#transformer)，Google Brain团队发布《Attention Is All You Need》，提出Transformer架构。这篇论文最初只是为机器翻译任务设计，却意外成为整个深度学习时代的奠基之作。
 
 **核心创新**：
 
@@ -64,7 +66,7 @@ Transformer架构的八年演进，可以用三条主线概括：**从稠密到�
 
 ### GPT-3：大力出奇迹
 
-2020年，GPT-3发布，参数规模跃升至**1750亿**，首次证明"规模即是能力"——模型大到一定程度，会涌现出小模型不具备的能力（in-context learning、少样本学习等）。
+[2020年](../../00-meta/timeline-v2-iteration2.md#2020)，GPT-3发布，参数规模跃升至**1750亿**，首次证明"规模即是能力"——模型大到一定程度，会涌现出小模型不具备的能力（in-context learning、少样本学习等）。
 
 **技术路线固化**：
 - Decoder-only架构成为标准
@@ -97,7 +99,7 @@ Transformer架构的八年演进，可以用三条主线概括：**从稠密到�
 **MoE的优势**：
 - **总参数大**（知识容量大）
 - **激活参数小**（推理成本低）
-- 例如：DeepSeek-V3总参数671B，但每token只激活37B
+- 例如：[DeepSeek-V3](../../02-singularity/organizations/deepseek-organization.md)总参数671B，但每token只激活37B
 
 **MoE的挑战**：
 - 负载均衡：某些专家可能过载，某些可能闲置

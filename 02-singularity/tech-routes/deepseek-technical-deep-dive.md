@@ -9,7 +9,7 @@
 
 ## 核心洞察
 
-DeepSeek-V3的训练成本仅为**557万美元**（2.788M H800 GPU小时），却达到了与GPT-4o、Claude 3.5 Sonnet相媲美的性能。这一"价格屠夫"背后，不是单一技术突破，而是**算法、框架、硬件协同设计**的系统性创新。MLA压缩了75%的KV Cache，DeepSeekMoE实现了专家并行的高效调度，FP8训练将显存占用减半，DualPipe算法让通信开销接近于零。
+DeepSeek-V3的训练成本仅为**557万美元**（2.788M H800 GPU小时），却达到了与GPT-4o、Claude 3.5 Sonnet相媲美的性能。这一"价格屠夫"背后，不是单一技术突破，而是**算法、框架、硬件协同设计**的系统性创新。[[DeepSeek组织架构](../../02-singularity/organizations/deepseek-organization.md)]MLA压缩了75%的KV Cache，DeepSeekMoE实现了专家并行的高效调度，FP8训练将显存占用减半，DualPipe算法让通信开销接近于零。
 
 ---
 

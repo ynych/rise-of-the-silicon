@@ -36,6 +36,8 @@
 - 员工威胁集体离职（700+人签名） [权威媒体]
 - 5天后回归，Ilya边缘化 [多方交叉验证]
 
+**相关事件**：[OpenAI政变](../../00-meta/timeline-v2-iteration2.md#openai-coup) | **相关组织**：[OpenAI内部政治](../../02-singularity/organizations/openai-internal-politics.md)
+
 **2025-2026年：全面营利化**
 - 获得软银400亿美元投资（史上最大）[官方]
 - 目标IPO估值5000亿美元 [权威媒体]
@@ -100,6 +102,8 @@
 - 主导解雇Sam Altman [多方交叉验证]
 - 原因：认为Altman推动商业化过快，忽视安全 [推测]
 - 政变失败，自己边缘化 [多方交叉验证]
+
+**相关事件**：[OpenAI政变](../../00-meta/timeline-v2-iteration2.md#openai-coup) | **相关组织**：[OpenAI内部政治](../../02-singularity/organizations/openai-internal-politics.md) | **相关技术**：[AI安全与超级对齐](../../02-singularity/tech-routes/ai-safety-superalignment.md)
 
 **2024年5月：离开OpenAI**
 - 创立SSI（Safe Superintelligence Inc.） [官方]
@@ -277,6 +281,8 @@
 - 使用2048块H800（阉割版芯片）[官方技术报告]
 - 性能：超越Llama-3.1-405B，与GPT-4o相当 [权威媒体]
 
+**相关事件**：[DeepSeek-R1发布](../../00-meta/timeline-v2-iteration2.md#deepseek-r1) | **相关组织**：[DeepSeek组织故事](../../02-singularity/organizations/deepseek-organization.md) | **相关技术**：[DeepSeek技术解析](../../02-singularity/tech-routes/deepseek-technical-deep-dive.md)
+
 **全球影响**：
 - 美股科技股暴跌（英伟达跌17%）[多方交叉验证]
 - 震撼硅谷 [权威媒体]
@@ -351,6 +357,8 @@
 - AlexNet使用GPU训练 [官方论文]
 - Hinton的学生使用英伟达显卡 [权威媒体]
 - 黄仁勋意识到AI潜力，全力投入 [权威媒体]
+
+**相关技术**：[Transformer演进](../../02-singularity/tech-routes/transformer-evolution.md) | **相关事件**：[AlexNet突破](../../00-meta/timeline-v2-iteration2.md#alexnet)
 
 ### 算力霸权
 

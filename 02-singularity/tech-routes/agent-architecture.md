@@ -9,7 +9,7 @@
 
 ## 核心洞察
 
-大模型的进化轨迹清晰可见：**生成文本 → 链式推理 → 工具使用 → 自主Agent**。2025年被业界称为"Agent元年"，不是因为Agent概念新，而是因为o1/R1级别的推理能力让Agent真正"可用"。Function Calling让模型能操作外部世界，ReAct框架让推理与行动循环，MCP协议让多Agent协作成为可能。这场从"大脑"到"手脚"的进化，正在重新定义AI的能力边界。
+大模型的进化轨迹清晰可见：**生成文本 → 链式推理 → 工具使用 → 自主Agent**。2025年被业界称为"Agent元年"，不是因为Agent概念新，而是因为o1/R1级别的推理能力让Agent真正"可用"。Function Calling让模型能操作外部世界，ReAct框架让推理与行动循环，MCP协议让多Agent协作成为可能。这场从"大脑"到"手脚"的进化，正在重新定义AI的能力边界。[[OpenAI](../../02-singularity/organizations/openai-internal-politics.md)、[DeepSeek](../../02-singularity/organizations/deepseek-organization.md)]
 
 ---
 

@@ -36,7 +36,7 @@
 | 2025.11 | 通义品牌统一为"千问" |
 | 2026.03 | Qwen3.5系列包揽Hugging Face前四 |
 
-**开源成果**[官方/综合]：
+**[开源](../../02-singularity/east-west/open-source-movement.md)成果**[官方/综合]：
 - 下载量：超4000万次 [官方]
 - 衍生模型：超5万个 [官方]
 - Hugging Face CEO评价："Qwen2是王者，中国在全球开源大模型领域处于领导地位。" [权威媒体]
@@ -133,9 +133,9 @@
 | **组织** | 阿里云驱动 | 独立Seed部门 |
 | **技术路线** | 全模态、全尺寸 | 追赶中 |
 
-### 与DeepSeek对比
+### 与[DeepSeek](../../02-singularity/organizations/deepseek-organization.md)对比
 
-- DeepSeek：技术突破（R1）、低成本
+- [DeepSeek](../../02-singularity/organizations/deepseek-organization.md)：技术突破（R1）、低成本
 - 通义千问：生态建设（开源）、全尺寸覆盖
 
 ---

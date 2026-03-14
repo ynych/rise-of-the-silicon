@@ -117,7 +117,7 @@
 
 ## 五、禁令倒逼下的突围
 
-> [详见芯片战争分析：美国对华芯片封锁的系统性战略与中国的突围之路](/02-singularity/east-west/chip-war-comprehensive.md)
+> [详见芯片战争分析：美国对华芯片封锁的系统性战略与中国的突围之路](../../02-singularity/east-west/chip-war-comprehensive.md)
 
 ### 5.1 工艺自主化
 
@@ -129,7 +129,7 @@
 
 **技术路径**：DUV多重曝光，绕过EUV限制 [权威媒体]
 - 成本比台积电高 [权威媒体]
-- 良率相对较低 [单一信源]
+- 良率相对较低 <span style="color: #666; font-style: italic;">[单一信源]</span>
 - 但已实现自主可控 [权威媒体]
 
 ### 5.2 市场份额变化
@@ -184,7 +184,7 @@
 
 ### 7.2 大模型适配
 
-适配DeepSeek、通义千问等160+大模型。[官方]
+适配[DeepSeek](../../02-singularity/organizations/deepseek-organization.md)、[通义千问](../../02-singularity/organizations/alibaba-qwen-story.md)等160+大模型。[官方]
 
 ### 7.3 CloudMatrix集群
 
@@ -198,7 +198,7 @@
 
 ### 8.1 禁令的悖论
 
-美国的芯片禁令亲手为英伟达在中国市场制造了一个最强大的竞争对手。[详见芯片战争分析](/02-singularity/east-west/chip-war-comprehensive.md)
+美国的[芯片禁令](../../02-singularity/east-west/chip-war-comprehensive.md)亲手为英伟达在中国市场制造了一个最强大的竞争对手。[详见芯片战争分析](../../02-singularity/east-west/chip-war-comprehensive.md)
 
 封锁 → 华为崛起 → 英伟达失去市场 → 倒逼国产替代 [推测]
 
@@ -210,7 +210,7 @@
 
 ### 8.3 时间窗口
 
-> "推理侧闭环已跑通，训练侧闭环'只差光刻机'。再给中国2-3年时间..." [单一信源]
+> "推理侧闭环已跑通，训练侧闭环'只差光刻机'。再给中国2-3年时间..." <span style="color: #666; font-style: italic;">[单一信源]</span>
 
 2025-2027是关键期：[推测]
 - EUV突破 = 完全自主 [推测]

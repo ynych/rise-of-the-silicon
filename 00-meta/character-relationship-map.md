@@ -38,6 +38,8 @@
 | 关系对 | 关系类型 | 说明 |
 |--------|----------|------|
 | Altman 🔴 Ilya | 死敌 | 从合作伙伴→政变对手→彻底决裂 |
+
+**相关事件**：[OpenAI政变](../../00-meta/timeline-v2-iteration2.md#openai-coup) | **相关组织**：[OpenAI内部政治](../../02-singularity/organizations/openai-internal-politics.md)
 | Altman 🟡 Murati | 复杂 | 政变中倒戈支持Altman，后离职创立Thinking Machines Lab |
 | Altman 🔴 Musk | 死敌 | 从共同创始人→法律敌人，2024年起诉 |
 | Ilya 🟢 Hinton | 盟友+师徒 | 最得意门生，政变后复杂情感 |
@@ -183,8 +185,8 @@
 **黄仁勋的困境**：
 - 美国政府 🔴 施压：出口管制，要求脱钩
 - 中国市场 🟢 重要：20%+营收，持续增长
-- 华为昇腾 🔴 追赶：最强竞争对手
-- DeepSeek 🟢 证明：算法可弥补硬件差距
+- 华为昇腾 🔴 追赶：最强竞争对手 | [华为昇腾故事](../../02-singularity/organizations/huawei-ascend-inside.md)
+- DeepSeek 🟢 证明：算法可弥补硬件差距 | [DeepSeek技术](../../02-singularity/tech-routes/deepseek-technical-deep-dive.md)
 
 **关键关系**：
 | 关系对 | 关系类型 | 说明 |

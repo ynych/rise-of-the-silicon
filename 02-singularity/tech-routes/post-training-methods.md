@@ -19,10 +19,10 @@
 ┌────────────────────────────────────────────────────────────────┐
 │                    后训练技术演进时间线                         │
 ├────────────────────────────────────────────────────────────────┤
-│ 2022 │ RLHF (OpenAI)                                         │
+│ 2022 │ RLHF ([OpenAI](../../02-singularity/organizations/openai-internal-politics.md))                                         │
 │      │ 人类标注偏好 → 训练Reward Model → PPO优化              │
 ├────────────────────────────────────────────────────────────────┤
-│ 2022 │ Constitutional AI (Anthropic)                         │
+│ 2022 │ Constitutional AI ([Anthropic](../../02-singularity/organizations/openai-internal-politics.md))                         │
 │      │ AI根据宪法原则自我评价 → 减少对人类标注的依赖           │
 ├────────────────────────────────────────────────────────────────┤
 │ 2023 │ DPO (Stanford)                                        │
@@ -34,7 +34,7 @@
 │ 2024 │ Step-DPO / SimPO                                      │
 │      │ Step-level优化 / 简化DPO                               │
 ├────────────────────────────────────────────────────────────────┤
-│ 2025 │ RLVR + GRPO (DeepSeek)                                │
+│ 2025 │ RLVR + GRPO ([DeepSeek](../../02-singularity/organizations/deepseek-organization.md))                                │
 │      │ 可验证奖励 + 组内相对比较 → 推理能力涌现                │
 └────────────────────────────────────────────────────────────────┘
 ```

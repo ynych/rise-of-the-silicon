@@ -2,7 +2,7 @@
 
 ## 一、五种组织模式
 
-### 1.1 OpenAI：商业化吞噬理想
+### 1.1 [OpenAI](../../02-singularity/organizations/openai-internal-politics.md)：商业化吞噬理想
 
 **结构演变**：
 ```
@@ -17,18 +17,18 @@
 
 | 时间 | 事件 | 结果 |
 |------|------|------|
-| 2023.7 | 成立Superalignment团队 | Ilya+Jan领导，承诺20%算力 |
-| 2024.5 | Ilya+Jan离职 | "安全文化让位于闪亮产品" |
+| 2023.7 | 成立Superalignment团队 | [Ilya](../../04-characters/kol-top100-detailed.md#ilya-sutskever)+Jan领导，承诺20%算力 |
+| 2024.5 | [Ilya](../../04-characters/kol-top100-detailed.md#ilya-sutskever)+[Jan](../../04-characters/kol-top100-detailed.md#jan-leike)离职 | "安全文化让位于闪亮产品" |
 | 2024.5 | Superalignment解散 | 安全团队消亡 |
 | 2024.9 | 成立Mission Alignment团队 | Josh Achiam领导 |
 | 2025.11 | Mission Alignment成员离职或转岗 | 团队名存实亡 |
 | 2026.2 | Mission Alignment正式解散 | 安全研究分散到工程团队 |
 
 **离职潮（2024-2025）**：
-- Ilya Sutskever（首席科学家）
-- Jan Leike（Superalignment联合负责人）
-- Mira Murati（CTO）
-- John Schulman（联合创始人，转投Anthropic）
+- [Ilya Sutskever](../../04-characters/kol-top100-detailed.md#ilya-sutskever)（首席科学家）
+- [Jan Leike](../../04-characters/kol-top100-detailed.md#jan-leike)（Superalignment联合负责人）
+- [Mira Murati](../../04-characters/kol-top100-detailed.md#mira-murati)（CTO）
+- [John Schulman](../../04-characters/kol-top100-detailed.md#john-schulman)（联合创始人，转投Anthropic）
 - 20+高层员工
 
 **核心矛盾**：
@@ -50,7 +50,7 @@
 
 **组织结构特点**：
 
-| 维度 | Anthropic | OpenAI |
+| 维度 | Anthropic | [OpenAI](../../02-singularity/organizations/openai-internal-politics.md) |
 |------|-----------|--------|
 | **创始团队稳定性** | 7位联合创始人全员在岗 | 11位联合创始人8位离职 |
 | **员工留存率** | 80% | 约67% |
@@ -65,7 +65,7 @@
 2025年：100亿美元（预计）
 ```
 
-**Dario Amodei的管理风格**：
+**[Dario Amodei](../../04-characters/kol-top100-detailed.md#dario-amodei)的管理风格**：
 - 神经科学背景→系统性思维
 - "AI像有机生命体，非传统软件"
 - 安全优先于速度
@@ -73,18 +73,18 @@
 
 ---
 
-### 1.3 DeepSeek：扁平化的理想主义
+### 1.3 [DeepSeek](../../02-singularity/organizations/deepseek-organization.md)：扁平化的理想主义
 
 **组织架构**：
 ```
-创始人（梁文锋）
+创始人（[梁文锋](../../04-characters/kol-top100-detailed.md#梁文锋)）
 └── 139人核心团队（全本土）
     ├── 研究组（无预设角色）
     ├── 工程组（自然分工）
     └── 无中层管理
 ```
 
-**梁文锋的管理哲学**：
+**[梁文锋](../../04-characters/kol-top100-detailed.md#梁文锋)的管理哲学**：
 > "DeepSeek保持完全自下而上。我们不预先分配角色；自然分工自然出现。每个人都有独特的经历和想法，不需要被推动。"
 
 **关键特征**：
@@ -103,7 +103,7 @@
 - 外部投资者（浙江东方、华金资本）通过基金间接参与
 
 **创新成果**：
-- R1模型仅用600万美元（GPT-4的1/10成本）
+- R1模型仅用600万美元（[GPT-4](../../00-meta/timeline-v2-iteration2.md#gpt-4)的1/10成本）
 - 2000块H800达到Meta 16000块H100效果
 - 完全开源（模型+代码+论文）
 
@@ -220,7 +220,7 @@ Seed（吴永辉）
 | **招聘偏好** | 顶尖PHD+大厂高管 [官方] | 学术背景+安全专家 [权威媒体] | 应届+年轻博士 [权威媒体] | 海归+国内顶尖 [权威媒体] | 内部培养+空降 [权威媒体] |
 | **平均司龄** | 2年 [权威媒体] | 3+年 [权威媒体] | 1.5年 [推测] | 2年 [推测] | 3年 [推测] |
 | **流失率** | 高（30%+）[权威媒体] | 低（~10%）[权威媒体] | 极低（~5%）[推测] | 高（2025年7人离职）[权威媒体] | 高（2026年林俊旸等离职）[权威媒体] |
-| **激励方式** | 高薪+期权 [官方] | 使命驱动+稳定 [权威媒体] | 自由+成果署名 [单一信源] | 期权+晋升 [官方] | 阿里股票+职级 [官方] |
+| **激励方式** | 高薪+期权 [官方] | 使命驱动+稳定 [权威媒体] | 自由+成果署名 <span style="color: #666; font-style: italic;">[单一信源]</span> | 期权+晋升 [官方] | 阿里股票+职级 [官方] |
 | **典型画像** | Ilya型技术领袖 [权威媒体] | Dario型系统思考者 [权威媒体] | 梁文锋型效率偏执者 [权威媒体] | 吴永辉型学术派 [权威媒体] | 林俊旸型开源社区领袖 [权威媒体] |
 
 ### 2.4 决策模式深度对比
@@ -231,7 +231,7 @@ Seed（吴永辉）
 | **决策速度** | 快（Altman拍板）[推测] | 慢（共识驱动）[推测] | 极快（小时级）[推测] | 中等（周级）[推测] | 慢（月级）[推测] |
 | **信息流动** | 有损耗 [推测] | 较顺畅 [推测] | 无损耗 [推测] | 有损耗 [推测] | 严重损耗 [推测] |
 | **参与决策人数** | ~10人 [推测] | ~20人 [推测] | 全员（139人）[权威媒体] | ~50人 [推测] | ~30人 [推测] |
-| **典型决策场景** | Altman深夜邮件定方向 [单一信源] | 委员会投票 [推测] | 午餐会闲聊定方向 [单一信源] | OKR周期评审 [官方] | 高管会+HRG [官方] |
+| **典型决策场景** | Altman深夜邮件定方向 <span style="color: #666; font-style: italic;">[单一信源]</span> | 委员会投票 [推测] | 午餐会闲聊定方向 <span style="color: #666; font-style: italic;">[单一信源]</span> | OKR周期评审 [官方] | 高管会+HRG [官方] |
 
 ### 2.5 成败关键
 

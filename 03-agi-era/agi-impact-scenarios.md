@@ -21,12 +21,12 @@
 
 | 来源 | 预测时间 | 置信度 | 关键观点 |
 |------|---------|--------|---------|
-| **Dario Amodei (Anthropic)** | 2026-2027 | 高 | "与诺贝尔获奖者相当的智力能力" |
+| **[Dario Amodei](../../04-characters/deep-profiles-complete.md#dario-amodei)** (Anthropic) | 2026-2027 | 高 | "与诺贝尔获奖者相当的智力能力" |
 | **Elon Musk** | 2026 | 非常高 | "比最聪明的人类更聪明" |
 | **Metaculus社区** | 2027（弱AGI）<br>2033（完全AGI） | 50%概率 | 预测从2035（2022年）加速至2027-2033 |
-| **Sam Altman (OpenAI)** | 2029 | 高 | "已越过事件视界，超级智能在望" |
+| **[Sam Altman](../../04-characters/deep-profiles-complete.md#sam-altman)** (OpenAI) | 2029 | 高 | "已越过事件视界，超级智能在望" |
 | **Ray Kurzweil** | 2032 | - | 从2045修正至2032 |
-| **Demis Hassabis (DeepMind)** | 2030 | 50%概率 | 更谨慎，强调科学发现能力仍是挑战 |
+| **[Demis Hassabis](../../04-characters/deep-profiles-complete.md#demis-hassabis)** (DeepMind) | 2030 | 50%概率 | 更谨慎，强调科学发现能力仍是挑战 |
 | **学术调查（Grace et al.）** | 2047 | ~15-20% | 更保守的学术界共识 |
 | **Samotsvety预测者** | 2041 | 50%概率 | 超级预测者集体 |
 

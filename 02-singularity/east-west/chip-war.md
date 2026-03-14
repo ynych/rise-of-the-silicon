@@ -85,6 +85,8 @@
 | 昇腾910C | 2025年 | 800 TFLOPS | 7nm | H100的96% |
 | 昇腾920 | 2025年底 | - | - | 对标H20 |
 
+详见[华为昇腾逆袭](../../02-singularity/organizations/huawei-ascend-inside.md)。
+
 ### 3.2 关键突破
 
 **昇腾910C**：
@@ -184,9 +186,9 @@
 
 ## 六、意外后果
 
-### 6.1 DeepSeek的低成本奇迹
+### 6.1 [DeepSeek](../../02-singularity/organizations/deepseek-organization.md)的低成本奇迹
 
-**DeepSeek-V3训练成本**：
+**[DeepSeek-V3训练成本](../../04-characters/deep-profiles-complete.md#梁文锋-效率革命的布道者)**：
 - 仅**557.6万美元**
 - 使用2048块H800（被禁前的阉割版）
 - 性能：超越Llama-3.1-405B，与GPT-4o、Claude-3.5-Sonnet相当
@@ -215,7 +217,7 @@
 
 ---
 
-## 七、关键人物：黄仁勋（Jensen Huang）
+## 七、关键人物：[黄仁勋](../../04-characters/deep-profiles-complete.md#黄仁勋-算力霸权的困境守护者)（Jensen Huang）
 
 ### 7.1 背景
 
@@ -267,10 +269,10 @@
 
 | 时间 | 事件 |
 |------|------|
-| 2022.10 | 美国首次禁售A100/H100 |
+| 2022.10 | [美国首次禁售A100/H100](../../00-meta/timeline-v2-iteration2.md#第二幕奇点临近) |
 | 2023.10 | A800/H800也被禁，英伟达推出H20 |
-| 2024.12 | DeepSeek-V3发布，低成本训练震撼全球 |
-| 2025.01 | DeepSeek-R1发布，开源且性能比肩o1 |
+| 2024.12 | [DeepSeek-V3发布](../../00-meta/timeline-v2-iteration2.md#202501--deepseek-r1东方破局的标志性时刻)，低成本训练震撼全球 |
+| 2025.01 | [DeepSeek-R1发布](../../00-meta/timeline-v2-iteration2.md#202501--deepseek-r1东方破局的标志性时刻)，开源且性能比肩o1 |
 | 2025.04 | H20被禁，黄仁勋赴海湖庄园 |
 | 2025.05.13 | 美国宣布全球禁用华为昇腾 |
 | 2025.05.19 | 黄仁勋Computex演讲，称赞DeepSeek |

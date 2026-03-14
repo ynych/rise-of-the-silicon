@@ -8,6 +8,8 @@
 
 这不是王海峰第一次失势。[推测]
 
+**人物链接**：本故事核心人物 —— [李彦宏](../../04-characters/kol-top100-detailed.md#李彦宏)（百度CEO）
+
 **权力收缩时间线**:[权威媒体]
 
 | 时间 | 事件 | 权力变化 |
@@ -61,9 +63,9 @@
 | 文心大模型 + PC端 | TPG（技术中台事业群） | 王海峰体系 [官方] |
 | 文小言App + 智能体 | MEG（移动生态事业群） | 薛苏（2024年加入）[权威媒体] |
 
-**内部矛盾**：[单一信源]
-据百度云人士透露，在重大更新发布，甚至在文心一言移动端更名这样的关键动作上，两边团队都缺乏共识：[单一信源]
-> "时间表不对齐、营销策略不协同，此前一年的文心一言品牌推广等于打了水漂。" [单一信源]
+**内部矛盾**：<span style="color: #666; font-style: italic;"><span style="color: #666; font-style: italic;">[单一信源]</span></span>
+据百度云人士透露，在重大更新发布，甚至在文心一言移动端更名这样的关键动作上，两边团队都缺乏共识：<span style="color: #666; font-style: italic;"><span style="color: #666; font-style: italic;">[单一信源]</span></span>
+> "时间表不对齐、营销策略不协同，此前一年的文心一言品牌推广等于打了水漂。" <span style="color: #666; font-style: italic;"><span style="color: #666; font-style: italic;">[单一信源]</span></span>
 
 ### 2.3 市场表现
 
@@ -80,12 +82,12 @@
 
 ### 3.1 生死30天
 
-2023年2月，ChatGPT引爆全球AI浪潮。李彦宏深夜召见CTO王海峰：[权威媒体]
+2023年2月，[ChatGPT](../../00-meta/timeline-v2-iteration2.md#chatgpt)引爆全球AI浪潮。李彦宏深夜召见CTO王海峰：[权威媒体]
 
-> **"必须在3月推出竞品，死命令！"** [单一信源]
+> **"必须在3月推出竞品，死命令！"** <span style="color: #666; font-style: italic;">[单一信源]</span>
 
-TPG与MEG部门组成敢死队，王海峰挂帅总指挥。内部流传：[单一信源]
-> "每天夜里11点，Robin的会议室灯火通明。" [单一信源]
+TPG与MEG部门组成敢死队，王海峰挂帅总指挥。内部流传：<span style="color: #666; font-style: italic;">[单一信源]</span>
+> "每天夜里11点，Robin的会议室灯火通明。" <span style="color: #666; font-style: italic;">[单一信源]</span>
 
 这是"全村人"的希望——一个月打造中国ChatGPT。[推测]
 
@@ -100,8 +102,8 @@ TPG与MEG部门组成敢死队，王海峰挂帅总指挥。内部流传：[单�
 
 ### 3.3 "不是接入，是重构！"
 
-李彦宏在内部会议上怒吼：[单一信源]
-> **"不是接入，是重构！"** [单一信源]
+李彦宏在内部会议上怒吼：<span style="color: #666; font-style: italic;">[单一信源]</span>
+> **"不是接入，是重构！"** <span style="color: #666; font-style: italic;">[单一信源]</span>
 
 他要求所有业务线用文心一言重做产品：[官方]
 - 搜索搭载对话功能 [官方]
@@ -125,16 +127,16 @@ TPG与MEG部门组成敢死队，王海峰挂帅总指挥。内部流传：[单�
 | 时间 | 李彦宏表态 | 背景 |
 |------|-----------|------|
 | 2024年 | "开源是智商税" [权威媒体] | 文心一言领先时期 [推测] |
-| 2025年3月16日 | 文心大模型4.5和X1发布，全系产品接入DeepSeek [官方] | DeepSeek冲击后 [权威媒体] |
+| 2025年3月16日 | 文心大模型4.5和X1发布，全系产品接入DeepSeek [官方] | [DeepSeek-R1](../../00-meta/timeline-v2-iteration2.md#deepseek-r1)冲击后 [权威媒体] |
 | 2025年 | "必须走开源路线" [权威媒体] | 承认时代趋势 [推测] |
 
-2025年3月16日，文心大模型4.5和文心大模型X1正式发布，同时百度全系产品接入DeepSeek——这是时代的大趋势和民心所向。[官方]
+2025年3月16日，文心大模型4.5和文心大模型X1正式发布，同时百度全系产品接入[DeepSeek](../../02-singularity/organizations/deepseek-organization.md)——这是时代的大趋势和民心所向。[官方]
 
 ### 4.2 开源被迫
 
-李彦宏的转变并非主动选择，而是被DeepSeek逼出来的战略调整。
+李彦宏的转变并非主动选择，而是被[DeepSeek](../../02-singularity/organizations/deepseek-organization.md)逼出来的战略调整。
 
-DeepSeek以开源模式彻底打乱行业格局后，百度不得不跟进，否则将在生态层面被孤立。
+[DeepSeek](../../02-singularity/organizations/deepseek-organization.md)以[开源](../../02-singularity/east-west/open-source-movement.md)模式彻底打乱行业格局后，百度不得不跟进，否则将在生态层面被孤立。
 
 ---
 
@@ -144,9 +146,9 @@ DeepSeek以开源模式彻底打乱行业格局后，百度不得不跟进，否
 
 2025年底，百度悄然掀起了一场被外界称为"史上最大规模"的内部裁员。[权威媒体]
 
-据路透社透露：[单一信源]
-- 自11月底起，百度启动涉及多个业务线的结构性调整 [单一信源]
-- **裁员比例普遍在10%至25%之间** [单一信源]
+据路透社透露：<span style="color: #666; font-style: italic;">[单一信源]</span>
+- 自11月底起，百度启动涉及多个业务线的结构性调整 <span style="color: #666; font-style: italic;">[单一信源]</span>
+- **裁员比例普遍在10%至25%之间** <span style="color: #666; font-style: italic;">[单一信源]</span>
 
 ### 5.2 两年失血
 
@@ -213,11 +215,19 @@ DeepSeek以开源模式彻底打乱行业格局后，百度不得不跟进，否
 李彦宏亲自管理AI业务，是一次背水一战。但问题在于：[推测]
 - 技术积累已被竞争对手追赶 [权威媒体]
 - 生态闭环尚未建立 [权威媒体]
-- 人才流失加剧（2025年P9高管流失率38%）[单一信源]
+- 人才流失加剧（2025年P9高管流失率38%）<span style="color: #666; font-style: italic;">[单一信源]</span>
 
 ### 8.3 开源不是选择，是生存
 
-DeepSeek证明了开源路线的威力。百度从"闭源智商税"到被迫开源，反映了行业格局的根本性变化——**闭源护城河的瓦解**。[推测]
+[DeepSeek](../../02-singularity/organizations/deepseek-organization.md)证明了开源路线的威力。百度从"闭源智商税"到被迫开源，反映了行业格局的根本性变化——**闭源护城河的瓦解**。[推测]
+
+---
+
+## 相关链接
+
+- **技术解析**：[DeepSeek技术解析](../../02-singularity/tech-routes/deepseek-technical-deep-dive.md)
+- **地缘政治**：[芯片战争](../../02-singularity/east-west/chip-war-comprehensive.md)
+- **关键人物**：[李彦宏](../../04-characters/kol-top100-detailed.md#李彦宏)、[梁文锋](../../04-characters/kol-top100-detailed.md#梁文锋)
 
 ---
 
@@ -226,5 +236,5 @@ DeepSeek证明了开源路线的威力。百度从"闭源智商税"到被迫开�
 - [权威媒体] 36氪：《李彦宏亲掌AI：王海峰失职与何俊杰转岗背后的百度困局》（2025-11-25）
 - [权威媒体] 财新周刊：《谁能接住DeepSeek泼天流量？》（2025-02-28）
 - [权威媒体] 第一财经：《快手前副总加入百度负责文心一言》（2024-05-30）
-- [单一信源] Reuters：百度裁员相关报道（2026-01）
+- <span style="color: #666; font-style: italic;">[单一信源]</span> Reuters：百度裁员相关报道（2026-01）
 - [官方] 百度财报及组织架构公告
