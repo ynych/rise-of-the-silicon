@@ -30,11 +30,28 @@ P0任务全部完成！今日完成3个剩余P0任务：统一时间线、单一
 - ✅ 反馈模板：`expert-review-template-v1.1.md`
 - ✅ 专家库：`expert-pool-v1.1.md`
 
-### 待执行任务
-- [ ] 确定3-5位专家名单
-- [ ] 发送审稿邀请
-- [ ] 收集反馈
-- [ ] 汇总问题生成修复清单
+## 【新任务】AI专家评审进行中 🔄
+**时间**：2026-03-16 12:25  
+**状态**：已启动5个AI Agent并行评审  
+**预计完成**：10-15分钟
+
+### 已启动Agent
+| Agent | 角色 | 状态 |
+|-------|------|------|
+| FactChecker | 事实核查专家 | ⏳ 评审中 |
+| StoryTeller | 叙事写作专家 | ⏳ 评审中 |
+| Publisher | 出版编辑专家 | ⏳ 评审中 |
+| Insider | AI业内专家 | ⏳ 评审中 |
+| Reader | 读者代表 | ⏳ 评审中 |
+| Critic | 批判评论者 | ⏸️ 等待启动（并发上限） |
+
+### 待收集报告
+- [ ] factchecker-report-v1.1.md
+- [ ] storyteller-report-v1.1.md
+- [ ] publisher-report-v1.1.md
+- [ ] insider-report-v1.1.md
+- [ ] reader-report-v1.1.md
+- [ ] critic-report-v1.1.md（待启动）
 - **v1.1** (2026-03-16): P0排版修复完成 ✅
 - **v1.0** (2026-03-16): PDF初版生成 ✅
 
